@@ -2,7 +2,7 @@
 
 ![MEGR 2156-7 Title](MEGR2156title2.png)
 
-Welcome to a peek into my undergraduate mechanical engineer experiences and projects. Below will be a few tidbits into my past and current works, hobbies, and chronological roadmap. Below is organized into separated sections and serves to carve the way for user experience.
+Welcome to a peek into my undergraduate mechanical engineer experiences and projects. Below will be a few points into my past and current works, hobbies, and chronological roadmap of my career.
 
 > **When we figure solutions to our problems, we have to acknowledge the problems of our solutions.**
 
