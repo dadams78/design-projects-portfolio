@@ -32,6 +32,14 @@ b i. Impulse momentum theorem which comes from newtons second law. some of its v
 b ii. treating the objects as 1D helps in the calculations.
 
 c. as seen in the photo right above the opened oil filter, the handle is thick enough to wrap a hand around comfortably, and the head of the mallet is wide and light in-order to make swinging easier and soften the delivered force. 
+
+d. the patent number is US20180036872A1 invented by Cheng-Wei Su.
+
+d i. The dead blow hammer and the brass/copper hammer.
+
+d ii. I noticed on the internal design of the rubber mallet, it is not one single composite piece of rubber for the head, but three separate parts all conjoined with several T-joints to keep the pieces of the head together. 
+
+
 ## Analyze
 
 
