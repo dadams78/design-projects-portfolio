@@ -1,2 +1,7 @@
 #About Me
-This is how to edit
+I am Devin Adams, a dedicated mechanical engineering student driven by the challenge of designing optimized, functional solutions while combatting real-world design constraints. Engineering is not just a degree. To me, any type of problem-solving and creation or providing of a structured framework to turn conceptual ideas into real systems is engineering, degreed or not.
+
+My path to mechanical engineering comes from a broad, versatile curiosity about how complex systems operate. Beginning with electrical engineering and electronics, my interests expanded into automotive technology and thermal dissipation systems. Mechanical engineering was the prime discipline to match these interests, providing a broad foundation that not only integrates electro-mechanical design, but dynamics, and thermal-fluid sciences as well. This adaptability allows me to analyze problems as a whole, combining core mechanical principles with dynamic, evolving technologies.
+
+I am developing into an analytical, detail-oriented engineer who prioritizes precision, safety, and rigorous iterative design. Through hands-on project work, applied technical practice, and continuous collaborative feedback, I will further refine my ability to deliver optimized solutions under technical, physical, or economic limitations. I strive to become knowledgeable in as many corners of the industry as possible. To mislead one is to mislead multiple, and to teach one right is to prevent future confusions. Working slow can take long, but working fast can be misleading.
+
