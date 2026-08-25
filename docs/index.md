@@ -1,6 +1,6 @@
 # Devin Adams — MEGR 2157 Portfolio
 
-![MEGR 2156-7 Title](MEGR2156title.png)
+![MEGR 2156-7 Title](MEGR2156title2.png)
 
 Welcome to a peek into my undergraduate mechanical engineer experiences and projects. Below will be a few tidbits into my past and current works, hobbies, and chronological roadmap. Below is organized into separated sections and serves to carve the way for user experience.
 
