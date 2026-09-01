@@ -1,7 +1,7 @@
 # A2 – Truss Stress Analysis
 
 ## Objective
-There is a required truss design needed which has four points of contact. It must be created to support a predetermined amount of weight without breaking.
+There is a required truss design needed which has four points of contact. It must be created to support a predetermined amount of weight without breaking. The four points of contact are as follows in this image:
 
 ## Analyze
 Utilizing a Free Body Diagram, the forces put on each individual point(A,B,C,D) become available to use when calculating the final design of the truss.
