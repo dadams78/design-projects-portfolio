@@ -16,8 +16,12 @@ After the decision was made, I got to work on the free body diagram. The unique 
 This section calculated forces from each pin using method of joints, I included symbolic and numeric equations in order to stay as neat and clean as possible without mistakes. Of the entire structure only three of the pins needed to be calculated, of which I chose B, C, and D, starting off initially with B and D considering they had the least amount of members. From there using the values gained from Pins B and D, the final internal force AC was calculated. 
 ![Calculations FBD](TrussPins.jpg)
 
-![Calculations FBD](Trussweights.jpg)
+Going back we get the calculation for the total length of all of the beams of the truss. Finding the lengths will be useful for me later because it will go into calculating the estimated weight of the entire truss at minimum. 
 ![Calculations FBD](TrussLength.jpg)
+
+The values that the pins revealed during the method of sections allows for the next formulas to calculate stress properly. I organize the pin forces and the highest one is selected which was AC at ~47kN. In combination with the safety factor, yield strength of A500 steel, the A(min) is accessible to calculate weight. The mass of structural steel, gravity, total length from earlier, and A(min) are all multiplied to form the final weight of the truss structure. 
+![Calculations FBD](Trussweights.jpg)
+
 ## Analyze
 Utilizing a Free Body Diagram, the forces put on each individual point(A,B,C,D) become available to use when calculating the final design of the truss.
 
