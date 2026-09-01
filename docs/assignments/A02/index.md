@@ -13,8 +13,11 @@ In order to begin the project, I drew out a rough sketch of the diagram given on
 After the decision was made, I got to work on the free body diagram. The unique roller design for point B which slides horizontally rather than vertically in the position that it is in messed with some of my calculations initially. Using the moment force calculation from point A, I found By = -8.33kN. That value was used to derive that Ay = 8.33kN. Once the external forces were done, using Pythagorean theorem gave me the length of beam AC. 
 ![Calculations FBD](TrussFBD1.jpg)
 
-This section calculated forces from each joint, including symbolic and numeric equations for the best understanding of the material. Of the entire structure only three of the pins needed to be calculated, of which I chose B, C, and D, starting off initially with B and D considering they had the least amount of members. From there using the values gained from Pins B and D, the final internal force AC was calculated. 
+This section calculated forces from each pin using method of joints, I included symbolic and numeric equations in order to stay as neat and clean as possible without mistakes. Of the entire structure only three of the pins needed to be calculated, of which I chose B, C, and D, starting off initially with B and D considering they had the least amount of members. From there using the values gained from Pins B and D, the final internal force AC was calculated. 
 ![Calculations FBD](TrussPins.jpg)
+
+![Calculations FBD](Trussweights.jpg)
+![Calculations FBD](TrussLength.jpg)
 ## Analyze
 Utilizing a Free Body Diagram, the forces put on each individual point(A,B,C,D) become available to use when calculating the final design of the truss.
 
