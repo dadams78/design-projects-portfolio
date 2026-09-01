@@ -10,8 +10,11 @@ The force P is between 20-30kN, the length of a. is 0.4m, and the height of b. i
 In order to begin the project, I drew out a rough sketch of the diagram given on a scrap piece of paper. There were many options for design, but only some were realistic for the scenario at hand. One of the potential designs was a hexagonal shape, mimicking nature had its positives and negatives during actual testing in this scenario. I went through a few designs and decided to go with one which has a singular beam running across from point A to point C. I chose this because it was unique, and could pose a challenge to me during the final design.
 ![Drawing Board](TrussIdea.jpg)
 
-After the decision was made, I got to work on the free body diagram. The unique roller design for point B which slides horizontally rather than vertically in the position that it is in messed with some of my calculations initially. Using the moment force calculation from point A, I found By = -8.33kN. That value was used to derive that Ay = 8.33kN.
+After the decision was made, I got to work on the free body diagram. The unique roller design for point B which slides horizontally rather than vertically in the position that it is in messed with some of my calculations initially. Using the moment force calculation from point A, I found By = -8.33kN. That value was used to derive that Ay = 8.33kN. Once the external forces were done, using Pythagorean theorem gave me the length of beam AC. 
 ![Calculations FBD](TrussFBD1.jpg)
+
+
+![Calculations FBD](TrussPins.jpg)
 ## Analyze
 Utilizing a Free Body Diagram, the forces put on each individual point(A,B,C,D) become available to use when calculating the final design of the truss.
 
