@@ -1,13 +1,13 @@
 # A2 – Truss Stress Analysis
 
 ## Objective
-
+There is a required truss design needed which has four points of contact. It must be created to support a predetermined amount of weight without breaking.
 
 ## Analyze
-
+Utilizing a Free Body Diagram, the forces put on each individual point(A,B,C,D) become available to use when calculating the final design of the truss.
 
 ## Decide
-_Which geometry did you select, and why? This is your first open design choice in the course — defend it._
+To finalize the geometry of the truss, a double triangle was an effective yet simple design choice. The double triangle require less beams while holding the same weight, which makes it a smart choice for a truss.
 
 ## Communicate
 
