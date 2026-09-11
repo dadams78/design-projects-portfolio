@@ -3,13 +3,13 @@
 ## Part 1: <u>Design</u>
 
 
-## Part 2: Computer Calculated Mapping
+## Part 2: <u>Computer Calculated Mapping</u>
 
 
-## Part 3: Reflection
+## Part 3: <u>Reflection</u>
 
 
-## Lessons and Investments
+## <u>Lessons and Investments</u>
 
 
 ## Files
