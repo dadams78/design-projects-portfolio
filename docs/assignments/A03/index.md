@@ -1,12 +1,15 @@
-# A3 – [Topic]
+# Parametric and FEA
 
-## Part 1
-
-
-## Part 2
+## Part 1: <u>Design</u>
 
 
-## Part 3
+## Part 2: Computer Calculated Mapping
+
+
+## Part 3: Reflection
+
+
+## Lessons and Investments
 
 
 ## Files
