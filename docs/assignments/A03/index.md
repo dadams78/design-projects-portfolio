@@ -6,7 +6,7 @@ This assignment was to create a bar in CAD with a direct load between 300 lbf an
 
 <u>CAD Modeling</u>
 The dimensions I chose were modeled as shown.
-![image of CAD Model TRUE Dimensions](TRUE_DIMENSIONS.png)
+![image of CAD Model TRUE Dimensions](TRUE-DIMENSIONS.png)
 
 ## Part 2: <u>Computer Calculated Mapping</u>
 During this stage of the assignment, force and fixture modifiers are needed in order to digitally calculate the von Mises and deflection variables. Using the Mass Properties tab the Mass is calculated to be 0.16 pounds. 
