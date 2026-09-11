@@ -53,4 +53,4 @@ I think one source may be from the way the fixtures and loads were applied in th
 ## Part 4: <u>Lessons and Investments</u>
 It took me about 4 hours to complete this assignment. I learned how much the intricacies of real world scenarios may affect bars and cannot be directly calculated with just one value. I learned that despite choosing imperial units at the beginning of the solidworks session, there are still a few other places the units need to be changed for the swap to be whole. I played around with the length of the bar and the load pulling on the end of it. A big mistake I made was in the creation of the bar I forgot to choose a specific metal and had to search what was wrong. I also neglected to add the force module to one of the ends and I got an error. 
 ## Files
-![file of the bar part](/A03/A3-Pole_DevinAdams.SLDPRT)
+![file of the bar part](A3-Pole_DevinAdams.SLDPRT)
