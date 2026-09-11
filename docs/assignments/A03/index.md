@@ -44,13 +44,11 @@ The maximum deflection dictated by this displacement map is 0.008875 inches, whi
 ![FOS and stuff](FOS.png)
 
 ## Part 3: <u>Reflection</u>
-    (5%) Report the axial deflection from your parametric hand-calculation and from your FEA. Calculate the percent difference between the two.
 
-    If there is a meaningful discrepancy, identify at least one likely source (e.g., assumptions in the hand-calc, boundary conditions, mesh density, material property inputs).
-    If the two values are essentially the same, explain why you'd expect them to agree for this geometry and loading (e.g., no stress concentrations, simple axial loading, coarse mesh still adequate for a uniform cross-section).
-    Either way, state which result you'd trust more for this design and why.
+My hand calculation for the deflection of the aluminum bar was quite a bit off. I had 0.00696 inches for my hand calculation, but 0.008875 inches for the computational calculation with the mapping. There was a 24.12% percent difference. Both values were below the 0.009 inch maximum limit but the discrepancy is noticeable. 
 
-    (5%) Now imagine a fairly substantial pin hole on the left side of the bar. Look up the stress concentration factor (Kt) for a hole in a flat bar in tension (Peterson's charts or Machinery's Handbook). Using your FEA's nominal stress away from the hole, estimate the peak stress at the hole and state whether it would still pass your safety factor. (Don’t redo the FEA!)
+I think one source may be from the way the fixtures and loads were applied in the CAD for such a small bar. Id have to trust the hand calculations more because I am a bit skeptical of how the points are held in place.
+
 
 ## Part 4: <u>Lessons and Investments</u>
 It took me about 4 hours to complete this assignment. I learned how much the intricacies of real world scenarios may affect bars and cannot be directly calculated with just one value. I learned that despite choosing imperial units at the beginning of the solidworks session, there are still a few other places the units need to be changed for the swap to be whole. I played around with the length of the bar and the load pulling on the end of it. A big mistake I made was in the creation of the bar I forgot to choose a specific metal and had to search what was wrong. I also neglected to add the force module to one of the ends and I got an error. 
