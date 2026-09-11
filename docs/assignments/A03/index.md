@@ -40,7 +40,8 @@ The maximum deflection dictated by this displacement map is 0.008875 inches, whi
 
 <u>Max Stress and SF</u>
 
-**Check the maximum stress is lower than the strength of Aluminum (Sy = 40 ksi) and note the safety factor. **||||||||||||||||||||||||
+**The yield strength of the aluminum came out to be 2.9x10^8Pa, equivalent to ~$42.1 ksi and the maximum stress put on the bar was 2.2772 ksi. The bar had a safety factor in this scenario of 12. The bar is safe.
+![FOS and stuff](FOS.png)
 
 ## Part 3: <u>Reflection</u>
     (5%) Report the axial deflection from your parametric hand-calculation and from your FEA. Calculate the percent difference between the two.
