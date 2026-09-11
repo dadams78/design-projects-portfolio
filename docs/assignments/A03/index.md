@@ -4,7 +4,8 @@
 This assignment was to create a bar in CAD with a direct load between 300 lbf and 500 lbf. The maximum allowed axial deflection of the bar is 0.009 inches and must be made from Aluminum with a range of Young’s Modulus from 8.5-11.5*10^6 psi. The cross section is to be determined by myself and I went for a small thickness of 0.4 inches, with equal height and width. For my load, 325lbf was the value I picked, which is on the lower end of the recommended scale. Using the formula given in the Machinery's Handbook, I calculated a maximum length for the bar to be ~46.53 inches with the type of aluminum used being 2014-T4 which matched the Young's Modulus requirement at 10.5*10^6 psi. For my final length of the bar, I took a generous 10 inches off of the total length for a higher Safety Factor and tolerance. I made sure to change all of the units in SolidWorks to imperial for ease of legibility. These are used for the calculations shown in the paper.
 ![MEGR 2156-7 original image](drawing.png)
 
-<u>CAD Modeling</u>
+###<u>CAD Modeling</u>
+
 The dimensions I chose were modeled as shown.
 ![image of CAD Model TRUE Dimensions](TRUE-DIMENSIONS.png)
 
