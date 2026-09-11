@@ -1,6 +1,6 @@
 # Parametric and FEA
 
-## Part 1: <u>Design<u>
+## Part 1: <u>Design</u>
 
 
 ## Part 2: Computer Calculated Mapping
