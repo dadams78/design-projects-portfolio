@@ -1,13 +1,13 @@
 # A4 – [Motor Mount]
 
-## PART 1: <u>Feature 1</u>
+## __PART 1:__ <u>Feature 1</u>
 
 
-## PART 2: <u>Feature 2</u>
+## __PART 2:__ <u>Feature 2</u>
 
 
-## <u>Motor Mount Isometric Sketch</u>
+## __<u>Motor Mount Isometric Sketch</u>__
 
 
-## <u>3D CAD Model: Motor Mount
+## __<u>3D CAD Model: Motor Mount</u>__
 
