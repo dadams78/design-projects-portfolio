@@ -11,6 +11,7 @@ The portion of the motor mount which attaches to the motor itself is calculated.
 <u>Knowns, Unknowns, and Deciding Dimensions</u>
 
 I went with ABS Plastic for the material of the mount. It poses a challenge to use plastic for a motor mount experiencing so much force, however, with enough size used it can perform as well as other types of material. The Elasicity Modulus is 2x10^9 N/m^2 and the 
+
 List all the knowns and unknowns.
 (5%) Sketch a FBD of the feature.
 (20%) Model the equations and symbolically solve.
