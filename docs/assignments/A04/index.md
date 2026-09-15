@@ -82,8 +82,9 @@ This is the final generation of my designed mount.
 
 
 
-## Lessons
+## Lessons:
+I had to learn from the ground up how to use Solidworks, with a bit of prior education in modelling software like Blender and Creo Parametric. I learned figuring out which material to use for specific tasks is very important, and I think I could have slimmed down my final design if I had chosen a plastic with a higher stress tolerance. It took around 10 hours to complete this assignment for me. During the process I also learned how to utilize bending stress and maximum deflection equations to calculate optimal thicknesses in part geometry.
 
 ## **FILES**
 
-[file of the bar part](MotorMountFinal.SLDPRT)
+Click [HERE](MotorMountFinal.SLDPRT) to download the part.
