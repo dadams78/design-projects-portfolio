@@ -34,6 +34,15 @@ Below is a hand-drawn sketch of the motor mount created.
 ![Known-Unknown](Isometric-Sketch.png)
 
 
-## __<u>3D CAD Model: Motor Mount</u>__
+## __<u>SolidWorks 3D CAD Model: Motor Mount</u>__
+
+I started off creating all of the variables and each modified equation I used to get my heights.
 ![Known-Unknown](Equations.png)
+
+
 ![dcmotor3DDrawn](Isometric-CAD.png)
+
+
+##**FILES**
+
+[file of the bar part](MotorMountFinal.SLDPRT)
