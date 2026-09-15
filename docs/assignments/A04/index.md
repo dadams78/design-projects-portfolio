@@ -88,3 +88,12 @@ I had to learn from the ground up how to use Solidworks, with a bit of prior edu
 ## **FILES**
 
 Click [HERE](MotorMountFinal.SLDPRT) to download the part.
+
+
+## Research:
+
+1. Motor mount https://www.aliexpress.us/item/3256806360168467.html?gatewayAdapt=glo2usa4itemAdapt
+
+![dcmotor3DDrawn](Motor-Mount-Research.png)
+
+2. Motor mount https://www.aliexpress.us/item/3256811401202130.html
