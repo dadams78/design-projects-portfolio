@@ -17,19 +17,23 @@ I went with ABS Plastic for the material of the mount. It poses a challenge to u
 
 Using the formulas from the machinery book and using the allowed stress from the finding knowns and unknowns, I determined which variables were needed to still be found and how they fit into the bending stress and maximum deflection formulas. Considering the 28mm maximum diameter of the motor, i chose 30mm by 30mm for the base and length for the motor attachment side of the motor mount. After re-arranging both the formulas to find h, it was plug and chug from there and was given two height values, the largest one being 13.4mm which was chosen.
 ![Known-Unknown](MM-Calculations1.png)
+ I did have a bit of trouble in this part because I was incorrectly inputting stress(y) instead of allowed stress into my formula and got a wildly large number for thickness that would not allow the motor shaft to even stick through the mount.
 
 
 ## __PART 2:__ <u>Feature 2(Wall Attachment)</u>
 
 
 
-Utilizing the transformed equations from Feature 1, I am able to plug in the L2 of the wall side of the motor mount and the largest height calculated was 37.5mm 
+Utilizing the transformed equations from Feature 1, I am able to plug in the L2 of the wall side of the motor mount and the largest height calculated was 37.5mm, which left me with the full geometry of the motor mount not including screw holes and space for the motor shaft. The safety factor of 3 will help in making sure nothing bends or breaks with the added holes.
 ![Known-Unknown](MM-Calculations-u-k.png)
 
 
 ## __<u>Motor Mount Isometric Sketch</u>__
 
+Below is a hand-drawn sketch of the motor mount created. 
+![Known-Unknown](Isometric-Sketch.png)
+
 
 ## __<u>3D CAD Model: Motor Mount</u>__
-
-![dcmotor3DDrawn]()
+![Known-Unknown](Equations.png)
+![dcmotor3DDrawn](Isometric-CAD.png)
