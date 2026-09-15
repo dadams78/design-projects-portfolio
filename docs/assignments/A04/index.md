@@ -39,9 +39,14 @@ Below is a hand-drawn sketch of the motor mount created.
 I started off creating all of the variables and each modified equation I used to get my heights.
 ![Known-Unknown](Equations.png)
 
+
+
+
 I created a 106mm x 67.5mm block and cut out a portion of it to match the specific lengths and heights of both sides of the motor mount
 One part I struggled with on this was I had to learn how to model in Solidworks as I have never touched it before. I watched a few videos online going through the basics and found some walkthroughs.
 ![Known-Unknown](Motor-Mount-Dim.png)
+
+
 
 
 The area of this side was 30mm x 30mm not including the wall mount area. Using the 22mm diameter that the screws of the DC motor fit into, 
@@ -50,8 +55,12 @@ Later I ended up changing the shaft hole in the center to allow for more structu
 ![dcmotor3DDrawn](Motor-Screws.png)
 
 
+
+
 Here is the end result of the back face of the motor mount with the shaft hole diameter adjusted and the 2mm shaven off. 
 ![dcmotor3DDrawn](FinalMount.png)
+
+
 
 
 Using more construction lines, the wall mount screw holes were added, with an increased size from M3 to **M5** due to the overall thickness of the mount.
@@ -59,12 +68,18 @@ Each screw was placed at the corners of the guiding rectangle at the center of t
 ![dcmotor3DDrawn](Wall-Screws.png)
 
 
+
+
 This is the final result of the M5 Screw placement on the wall mount.
 ![dcmotor3DDrawn](M5-Clearance.png)
 
 
+
+
 This is the final generation of my designed mount.
 ![dcmotor3DDrawn](Isometric-CAD.png)
+
+
 
 
 ## Lessons
