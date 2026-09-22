@@ -1,10 +1,15 @@
 # A5 – Bracket Design
 
-## Objective
+The purpose of this assignment
 
+**<u>The visual aid:</u>**
 ![intropage](Intro-Page.jpg)
 
-## Analyze
+
+## __PART 1:__ <u>Calculating Dimensions from Stress Analysis</u>
+
+
+**<u>Knowns, Unknowns, and Deciding Dimensions</u>**
 
 
 ## Decide
