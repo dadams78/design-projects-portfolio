@@ -4,6 +4,7 @@ The purpose of this assignment is to design a bracket to hold a 0.75in wide stra
 
 **<u>The visual aid:</u>**
 ![intropage](Intro-Page.jpg)
+![intropage](Bracket.png)
 
 
 ## __PART 1:__ <u>Calculating Dimensions from Stress Analysis</u>
@@ -21,8 +22,9 @@ All of the thicknesses of each plate are very small decimal numbers. During this
 
 ## __PART 2:__ <u>Calculating Dimensions from Stiffness Analysis</u>
 
-
+For this part of the assignment, it was a bit easier to go through each of the features as I had gotten the hang of drawing the FBDs and formulas. After seeing the first radius for the cylinder, I was thinking the rest of these values would be very small, which I was mostly correct.
 ![part1-1](Part2-1.jpg)
+On the final Feature, the thickness of the metal actually exceeds the prior highest set by the Stress Analysis. it was very close, near hundredth of an inch, but could be enough of a difference in some scenarios that could cause it to fail if it was too thin.
 ![part1-1](Part2-2.jpg)
 
 
@@ -30,6 +32,8 @@ All of the thicknesses of each plate are very small decimal numbers. During this
 ## __PART 3:__ <u>Generate Multiview Sketches (10%)</u>
 
 
+![part1-1](Drawing1.jpg)
+![part1-1](Drawing2.jpg)
 
 ## Lessons Learned
 
