@@ -10,14 +10,20 @@ The purpose of this assignment is to design a bracket to hold a 0.75in wide stra
 
 
 **<u>Knowns, Unknowns, and Deciding Dimensions</u>**
-
+For the length of the cylinder, I went with an uncomplicated 0.75 inches. the strap has a width of that amount so it makes sense not to go below that, and nothing is to be gained going above that unless the bracket in this specific scenario was using a different width strap. Using the formulas in Appendix A, I went through each Free body diagram and determined which factors of the equation already existed, which needed to be created for narrowing down variables, and ensuring some sort of organization throughout the project. 0.4015 inches and 0.2 inches are two sizes that I used to keep similarity among all of the features. 
 
 
 
 ![part1-1](Part1-1.jpg)
+**<u>Thought Process</u>**
+All of the thicknesses of each plate are very small decimal numbers. During this point of the project I was not concerned about the bracket being too big like with the ABS project, but too small. 
+![part1-1](Part1-2.jpg)
 
 ## __PART 2:__ <u>Calculating Dimensions from Stiffness Analysis</u>
 
+
+![part1-1](Part2-1.jpg)
+![part1-1](Part2-2.jpg)
 
 
 
