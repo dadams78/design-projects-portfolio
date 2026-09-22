@@ -31,7 +31,7 @@ On the final Feature, the thickness of the metal actually exceeds the prior high
 
 ## __PART 3:__ <u>Generate Multiview Sketches (10%)</u>
 
-
+These were a bit tough to draw, I had to go back and circle my base and height values from the previous calculations to properly mark them down.
 ![part1-1](Drawing1.jpg)
 ![part1-1](Drawing2.jpg)
 
