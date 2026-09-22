@@ -14,7 +14,7 @@ The purpose of this assignment is to design a bracket to hold a 0.75in wide stra
 
 
 
-![part1-1](part1-1.jpg)
+![part1-1](Part1-1.jpg)
 
 ## __PART 2:__ <u>Calculating Dimensions from Stiffness Analysis</u>
 
