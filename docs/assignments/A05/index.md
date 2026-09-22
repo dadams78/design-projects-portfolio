@@ -36,4 +36,8 @@ On the final Feature, the thickness of the metal actually exceeds the prior high
 ![part1-1](Drawing2.jpg)
 
 ## Lessons Learned
+In most features, the stress calculations gave me a reliable thickness that out-sized the stiffness calculations, but on Feature E, stiffness gave the bracket a thicker value (0.394 in vs 0.36 in) which while being a small(0.034 in) difference, it gave me hope that the calculations I did were right.
 
+An error I faced was mixing up the base and height values quite a bit when calculating final thicknesses. I didn't get far before realizing but it was very annoying having to re-do it. 
+
+One assumption I made was that Titanium would require a bit thicker lay-on amount than it did. I previously used the weakest plastic on the motor mount, and it turned out so thick, so I chose the strongest metal this time and now it's paper thin!
