@@ -69,9 +69,9 @@ Drawing: [the drawing](Part6.SLDPRT)
 ## Lessons Learned
 -------------------------------------FILLL IN HERE
 
-An error I faced was mixing up the base and height values quite a bit when calculating final thicknesses. I didn't get far before realizing but it was very annoying having to re-do it. 
+In this assignment, I learned how to make a professional-like drawing out of a 3D part that I made. One specific thing I found interesting was learning how to put out each viewpoint of the drawings in Solidworks.
 
-One assumption I made was
+One assumption I made was that near the end i clicked a button like "edit drawing" and the entire page went blank. I was so tired. Figured out in a few minutes that i could bring it back but my heart dropped. Another assumption I made was that the RA value dimensions would swap over to the drawing and that didnt happen, meaning I had to re-do my dimensions.
 
-It took ~6 hours to complete this project
+It took ~7 hours to complete this project because I am a slow but steady worker!
 
