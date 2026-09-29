@@ -11,9 +11,26 @@ For this assignment we are parametrically designing the bracket that was dimensi
 
 
 **<u>Getting Started</u>**
-For the length of the cylinder, I went with an uncomplicated 0.75 inches. the strap has a width of that amount so it makes sense not to go below that, and nothing is to be gained going above that unless the bracket in this specific scenario was using a different width strap. Using the formulas in Appendix A, I went through each Free body diagram and determined which factors of the equation already existed, which needed to be created for narrowing down variables, and ensuring some sort of organization throughout the project. 0.4015 inches and 0.2 inches are two sizes that I used to keep similarity among all of the features. 
+
+Designing in SolidWorks is new to me, while this is a documentation of building the bracket to fit onto the T Bracket Base, it is also a documentation of the failures and mistakes I made while creating this part. I started off creating the cylinder wall since it is lowest to the ground.
 
 
+To begin, I started building the cylinder wall and realized when extending the length to the parametric definitions I had saved, it would not equally lengthen both sides of the rectangle sketch. Later I figured out I had to use centerlines with midpoint lines to accurately center the base of the bracket.
+![the beginning stages](1.png)
+
+Here is the centered base. Later I had to extend it to include my vertical walls for the bracket, and I did not realize until much later on in this process.
+![the intro thingie](4.png)
+
+After finishing the base and cylinder wall, I started on the cylinder. After perfectly attributing its diameter parametrically, when I went to extrude I realized it was attached to the plane behind the part.
+![the intro thingie](2.png)
+
+A bit of research led me to "Edit Sketch Plane" which allowed me to easily pin the sketch to the wall. 
+![the intro thingie](3.png)
+
+After getting the cylinder pinned down, and fixing the base dimensions, I worked on the vertical walls. These gave me trouble due to the 
+![the intro thingie](5.png)
+![the intro thingie](6.png)
+![the intro thingie](7.png)
 
 ![part1-1](Part1-1.jpg)
 **<u>Thought Process</u>**
