@@ -67,7 +67,7 @@ Drawing: [the drawing](Part6.SLDPRT)
 
 
 ## Lessons Learned
--------------------------------------FILLL IN HERE
+
 
 In this assignment, I learned how to make a professional-like drawing out of a 3D part that I made. One specific thing I found interesting was learning how to put out each viewpoint of the drawings in Solidworks.
 
