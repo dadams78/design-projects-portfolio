@@ -45,14 +45,24 @@ HERE ARE THE PARAMETERS:
 
 ## __PART 2:__ <u>Drawing</u>
 
-For this part of the assignment, it was a bit easier to go through each of the features as I had gotten the hang of drawing the FBDs and formulas. After seeing the first radius for the cylinder, I was thinking the rest of these values would be very small, which I was mostly correct.
-![part1-1](Part2-1.jpg)
-On the final Feature, the thickness of the metal actually exceeds the prior highest set by the Stress Analysis. it was very close, near hundredth of an inch, but could be enough of a difference in some scenarios that could cause it to fail if it was too thin.
-![part1-1](Part2-2.jpg)
+With additional work, the product is polished a bit more resulting in this. the base diameter was finnicky.
+![Finalish model](9.png)
+In third angle projection, with tolerances matching the bracket, I am able to see the dimensions and tolerances of my work with ease. 
+![final drawing](10.png)
 
 
 
 ## __PART 3:__ <u>Reflections</u>
+I learned a lot from this assignment, and how a simple extra zero can cost a lot of money when researching how to set tolerances in SolidWorks. It took about 1:30 Hours:Minutes and was fun to tolerance each part. This is my baby even if it is a little bit ugly in its current form.
+
+I used strength to drive most of the dimensions in this. The horizontal walls on the very top of the bracket are the most notable due to their thickness. I intentionally made them slightly thicker than the original equation i based that dimension off of just to make sure everything would possibly have a chance at turning out alright if this was ever built as a real bracket. It was my "Z" equation that is in the parametrics with a B*H calculation. It did not get reworked at all.
+
+One Dimension of the drawing in which i applied a tighter tolerance class to was the cylinder diameter and cylinder wall length because it is very important that the surface that touches the strap doesnt get cut or rub poorly in any of the areas, so I gave it a tighter tolerance to account for it, along with any material a strap may rub off. I applied a loose tolerance to the 0.36 horizontal walls because I already added a little bit extra, so I worried less about the specific variation of that section. While it is part of the bracket mounting area, the 0.1499 tolerance should take care of it, while the loose tolerance on the horizontal wall would just cause it to be taller or slightly shorter. If i were to apply the tightest tolerance across my entire drawing by default, it would cause the entire bracket to be exponentially more expensive(5x-10x) without providing necessarily any greater benefit to its purpose
+
+## FILES
+
+Part: [the part ](Part6.SLDDRW)
+Drawing: [the drawing](Part6.SLDPRT)
 
 
 
