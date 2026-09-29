@@ -12,7 +12,7 @@ For this assignment we are parametrically designing the bracket that was dimensi
 
 **<u>Getting Started</u>**
 
-Designing in SolidWorks is new to me, while this is a documentation of building the bracket to fit onto the T Bracket Base, it is also a documentation of the failures and mistakes I made while creating this part. I started off creating the cylinder wall since it is lowest to the ground.
+Designing in SolidWorks is new to me, while this is a documentation of building the bracket to fit onto the T Bracket Base, it is also a documentation of the failures and mistakes I made while creating this part. I started off creating the cylinder wall since it is lowest to the ground. It is based on my stress analysis calculations from the previous assignment.
 
 
 To begin, I started building the cylinder wall and realized when extending the length to the parametric definitions I had saved, it would not equally lengthen both sides of the rectangle sketch. Later I figured out I had to use centerlines with midpoint lines to accurately center the base of the bracket.
@@ -27,15 +27,21 @@ After finishing the base and cylinder wall, I started on the cylinder. After per
 A bit of research led me to "Edit Sketch Plane" which allowed me to easily pin the sketch to the wall. 
 ![the intro thingie](3.png)
 
-After getting the cylinder pinned down, and fixing the base dimensions, I worked on the vertical walls. These gave me trouble due to the 
+After getting the cylinder pinned down, and fixing the base dimensions, I worked on the vertical walls. These gave me trouble due to the base dimensions I previously made, which didnt account for the thickness of the vertical walls. After all adjustments to the previous steps I extruded these upwards and was left with this:
 ![the intro thingie](5.png)
+
+Horizontal top walls were probably the easiest part of this design. just two centerlines were used since my previous calculations evenly lengthened the horizontal and vertical walls to ~0.20 inches, kind of like claw grabbers. The dimensions were parametrically adjusted as all dimensions start off as close approximations.
 ![the intro thingie](6.png)
+
+Here is the final resulting design using Titanium. 
 ![the intro thingie](7.png)
 
-![part1-1](Part1-1.jpg)
+
 **<u>Thought Process</u>**
-All of the thicknesses of each plate are very small decimal numbers. During this point of the project I was not concerned about the bracket being too big like with the ABS project, but too small. 
-![part1-1](Part1-2.jpg)
+I went with a bottom up approach. Despite my mistakes, it proved to be effective. I was considering taking a big cube and carving out chunks from it until the part i needed was done, but I figured it would be more work to try and simplify it like that than to actually just do the work how it should be done. At one point I tried starting from the middle of the bracket at the base, but it did not turn out well and I kept getting errors for reasons I cannot explain.
+
+HERE ARE THE PARAMETERS:
+![parameters](8.png)
 
 ## __PART 2:__ <u>Drawing</u>
 
