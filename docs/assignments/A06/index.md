@@ -31,12 +31,10 @@ On the final Feature, the thickness of the metal actually exceeds the prior high
 
 ## __PART 3:__ <u>Reflections</u>
 
-These were a bit tough to draw, I had to go back and circle my base and height values from the previous calculations to properly mark them down.
-![part1-1](Drawing1.jpg)
-![part1-1](Drawing2.jpg)
+
 
 ## Lessons Learned
-In most features, the stress calculations gave me a reliable thickness that out-sized the stiffness calculations, but on Feature E, stiffness gave the bracket a thicker value (0.394 in vs 0.36 in) which while being a small(0.034 in) difference, it gave me hope that the calculations I did were right.
+-------------------------------------FILLL IN HERE
 
 An error I faced was mixing up the base and height values quite a bit when calculating final thicknesses. I didn't get far before realizing but it was very annoying having to re-do it. 
 
