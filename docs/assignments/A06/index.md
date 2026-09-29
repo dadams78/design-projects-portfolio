@@ -3,7 +3,7 @@
 For this assignment we are parametrically designing the bracket that was dimensioned in the previous assignment to meet a maximum deflection of 0.005 inches per component. This was done by calculating the given stress and strength needed at various areas to give a thickness that is satisfactory to meet the requirement. Ultimately Stress was the limiting factor, so the dimensions given in the stress equations are what the current design will be using. Below are the given instructions on what the bracket was supposed to be designed around, which was a rigid T beam. For the design process, I chose Titanium (Ti-6Al-4V) to be the material of the bracket and will use the stress dimensions from the previous assignment for this one.
 
 **<u>The T Bracket Base</u>**
-[the intro thingie](intro.png)
+![the intro thingie](intro.png)
 
 
 ## __PART 1:__ <u>Parametric Design</u>
