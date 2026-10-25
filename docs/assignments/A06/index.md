@@ -1,14 +1,14 @@
 For this assignment we are parametrically designing the bracket that was dimensioned in the previous assignment to meet a maximum deflection of 0.005 inches per component. This was done by calculating the given stress and strength needed at various areas to give a thickness that is satisfactory to meet the requirement. Ultimately Stress was the limiting factor, so the dimensions given in the stress equations are what the current design will be using. Below are the given instructions on what the bracket was supposed to be designed around, which was a rigid T beam. For the design process, I chose Titanium (Ti-6Al-4V) to be the material of the bracket and will use the stress dimensions from the previous assignment for this one.
 
 **<u>The T Bracket Base</u>**
-**<u>First FEA run</u>**
+
 
 ![the intro thingie](intro.png)
-FEA data and image
+
 
 
 ## __PART 1:__ <u>Parametric Design</u>
-## __PART 1:__ <u>Second FEA run and image</u>
+
 
 
 **<u>Getting Started</u>**
@@ -36,9 +36,7 @@ Horizontal top walls were probably the easiest part of this design. just two cen
 
 Here is the final resulting design using Titanium. 
 ![the intro thingie](7.png)
-**<u>Third FEA run and image</u>**
 
-DATA ON HOW I DID IT ALONG THE WAY, INCLUDE MY SHORTCOMINGS
 
 **<u>Thought Process</u>**
 I went with a bottom up approach. Despite my mistakes, it proved to be effective. I was considering taking a big cube and carving out chunks from it until the part i needed was done, but I figured it would be more work to try and simplify it like that than to actually just do the work how it should be done. At one point I tried starting from the middle of the bracket at the base, but it did not turn out well and I kept getting errors for reasons I cannot explain.
@@ -68,13 +66,9 @@ One Dimension of the drawing in which i applied a tighter tolerance class to was
 Part: [the part ](Part6.SLDDRW)
 Drawing: [the drawing](Part6.SLDPRT)
 
- Reflection Statement
 
 
 ## Lessons Learned
-
-Give lessons learned
-
 
 In this assignment, I learned how to make a professional-like drawing out of a 3D part that I made. One specific thing I found interesting was learning how to put out each viewpoint of the drawings in Solidworks.
 ## FILES
