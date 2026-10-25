@@ -74,7 +74,5 @@ In this assignment, I learned how to make a professional-like drawing out of a 3
 ## FILES
 
 One assumption I made was that near the end i clicked a button like "edit drawing" and the entire page went blank. I was so tired. Figured out in a few minutes that i could bring it back but my heart dropped. Another assumption I made was that the RA value dimensions would swap over to the drawing and that didnt happen, meaning I had to re-do my dimensions.
-Parts: [the part ](Part6.SLDDRW)
-Drawing: [the drawing](Part6.SLDPRT)
 
 It took ~7 hours to complete this project because I am a slow but steady worker!
