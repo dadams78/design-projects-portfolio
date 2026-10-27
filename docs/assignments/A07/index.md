@@ -6,29 +6,33 @@ Below is an image of my initial part from A6:
 
 ![the intro thingie](7.png)
 
-**<u>First FEA run</u>**
+**<u>Part 1: First FEA Design run</u>**
 
-One of the goals I have for this project is to make it bend less. I think adding material will help, so I will try that first. I chose 508lbf for the A5, so I will continue using that for this which translates to ~2260N. This will be consistent.
+One of the goals I have for this project is to make it bend less. I think adding material will help, so I will try that first. I chose 508lbf for the A5, so I will continue using that for this which translates to ~2260N. This force will be consistently applied face load no more force and no less. The vertical bracket holders will be the fixtures.
 
-FEA: coarse-ness/fine-ness
-image of fixture location:
-I chose a face load over a line load or point load (it avoids stress "singularities" where its all in one spot)
+
+
+## __PART 1:__ <u>First FEA Design</u>
+
 Things changed: made the baseplate and cylinder wall 4x thicker going from 0.0422 -> 0.1688in for both of them. Elements: tetrahedrons in the coarse to fine mesh
 
-Run 1! Elements	4,521 Mass:	0.13 lb
-FEA data and image first mesh run
+Coarse Run 
+Elements	4,521 Mass:	0.13 lb
+
 Max stress	1190 MPa at the top of the web where it meets the plate
 Max deflection	2.387 mm (0.094 in), at the free end of the cylinder
 Safety factor	0.695 (yield 827 MPa ÷ 1190 MPa), same location as max stress
 
-Run 2! Elements:	14,499 Mass:	0.13 lb
-FEA data and image Second mesh run 
+Fine Run
+Elements:	14,499 Mass:	0.13 lb
+
 Max stress	1376 MPa at the top of the web where it meets the plate, the stress corner.
 Max deflection	2.419 mm (0.095 in), at the free end of the cylinder
 Safety factor	0.601 (yield 827 MPa ÷ 1376 MPa), same location as max stress 
 
-Run 3! Elements:	63,817 Mass:	0.13 lb
-FEA data and image Second mesh run 
+Finest Run
+Elements:	63,817 Mass:	0.13 lb
+
 Max stress	1683 MPa at the top of the web where it meets the plate, the stress corner.
 Max deflection	2.433 mm (0.096 in), at the free end of the cylinder
 Safety factor	0.491 (yield 827 MPa ÷ 1683 MPa), same location as max stress 
@@ -37,12 +41,63 @@ Safety factor	0.491 (yield 827 MPa ÷ 1683 MPa), same location as max stress
 Images:
 
 
-## __PART 1:__ <u>Second FEA run and image</u>
+## __PART 2:__ <u>Second FEA Design</u>
+
+Things changed: made the corners where stress was located fillet'ed and horizontal bracket bar 1/2 as thick 0.356 -> 0.178in for both of them reducing weight. Elements: tetrahedrons in the coarse to fine mesh
+
+Coarse Run 
+Elements	2,483 Mass:	0.11 lb
+
+Max stress	1398 MPa at the two edges of the fillet where it meets the plate
+Max deflection	2.27 mm (0.089 in), at the free end of the cylinder
+Safety factor	0.591 (yield 827 MPa ÷ 1398 MPa), same location as max stress
+
+Fine Run
+Elements:	11,347 Mass:	0.11 lb
+
+Max stress	1466 MPa at the two edges of the fillet where it meets the plate
+Max deflection	2.300 mm (0.090 in), at the free end of the cylinder
+Safety factor	0.564 (yield 827 MPa ÷ 1466 MPa), same location as max stress
+
+Finest Run
+Elements:	62,719 Mass:	0.11 lb
+
+Max stress	1464 MPa at the two edges of the fillet where it meets the plate
+Max deflection	2.310 mm (0.091 in), at the free end of the cylinder
+Safety factor	0.565 (yield 827 MPa ÷ 1464 MPa), same location as max stress
+
+FINAL DATA on convergence. Was it below 7%?
 
 
-**<u>Third FEA run and image</u>**
 
-DATA ON HOW I DID IT ALONG THE WAY, INCLUDE MY SHORTCOMINGS
+## __PART 3:__ <u>Third FEA Design</u>
+
+
+Things changed: I cut some rectangular spaces out from the areas of the bracket that were not under much stress. I also carved out a cylindrical hole in the cylinder and widened the cylinder wall to 0.2532 and halved the horizontal bracket bar again to ~0.09
+
+# Coarse Run 
+# Elements	2,406 Mass:	0.10 lb
+
+Max stress	831 MPa 
+Max deflection	1.458 mm (0.057 in), 
+Safety factor	0.995 (yield 827 MPa ÷ 831 MPa), 
+
+# Fine Run
+# Elements:	8,514 Mass:	0.10 lb
+
+Max stress	904 MPa 
+Max deflection	1.495 mm (0.059 in), 
+Safety factor	0.914 (yield 827 MPa ÷ 904 MPa), 
+
+# Finest Run
+# Elements:	52,224 Mass:	0.10 lb
+
+Max stress	1082 MPa 
+Max deflection	1.506 mm (0.059 in), 
+Safety factor	0.764 (yield 827 MPa ÷ 1082 MPa), 
+
+FINAL DATA on convergence. Was it below 7%?
+Show calc and say No
 
 **<u>Thought Process</u>**
 Give my thoughts on the previous section here
