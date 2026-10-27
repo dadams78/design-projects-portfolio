@@ -14,6 +14,7 @@ FEA: coarse-ness/fine-ness
 image of fixture location:
 I chose a face load over a line load or point load (it avoids stress "singularities" where its all in one spot)
 Things changed: made the baseplate and cylinder wall 4x thicker going from 0.0422 -> 0.1688in for both of them. Elements: tetrahedrons in the coarse to fine mesh
+
 Run 1! Elements	4,521 Mass:	0.13 lb
 FEA data and image first mesh run
 Max stress	1190 MPa at the top of the web where it meets the plate
