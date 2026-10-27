@@ -1,6 +1,9 @@
-# A6 – Bracket Drawing (part 1)
+# A7 – FEA on Bracket
 
-For this assignment we are parametrically designing the bracket that was dimensioned in the previous assignment to meet a maximum deflection of 0.005 inches per component. This was done by calculating the given stress and strength needed at various areas to give a thickness that is satisfactory to meet the requirement. Ultimately Stress was the limiting factor, so the dimensions given in the stress equations are what the current design will be using. Below are the given instructions on what the bracket was supposed to be designed around, which was a rigid T beam. For the design process, I chose Titanium (Ti-6Al-4V) to be the material of the bracket and will use the stress dimensions from the previous assignment for this one.
+For this assignment the part previously designed in project A6 will be refined and optimized to cut unnecessary material using a "2x 3x" method. The material I chose for my bracket is Titanium (Ti-6Al-4V). The workflow for this project will consist of two parts. The first is an inner loop where the mesh will be changed up to three times(atleast two times), from coarser to finer until a 7% convergence appears validating the loop. The outer loop is where the actual geometry of the shape will be changed, removing material that is unnecessary and adding material where it could come in handy. The ultimate goal is to make the part be stronger, stiffer, and more lightweight than the prior iterations.
+
+Below is an image of my initial part from A6:
+![the intro thingie](7.png)
 
 **<u>First FEA run</u>**
 
