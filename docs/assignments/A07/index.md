@@ -41,7 +41,7 @@ Max stress	1683 MPa  (20.07% difference)
 Max deflection	2.433 mm (0.096 in) (0.58% convergence)
 Safety factor	0.491 (yield 827 MPa ÷ 1683 MPa) (20.12% difference)
 
-**<u>Thought Process</u>** The max stress	for each run was located at the top of the web where it meets the plate, the "stress corner". The same happens with FOS. Max deflection	focused primarily at the free end of the cylinder
+**<u>Thought Process</u>** The max stress	for each run was located at the top of the cylinder wall where it meets the plate, the "stress corner". The same happens with FOS. Max deflection	focused primarily at the free end of the cylinder
 
 FINAL DATA on convergence. Was it below 7%? No, it wasn't. There was stress focal points on the corners of the cylinder wall which I believe contributed to the wide convergence.
 
@@ -113,7 +113,7 @@ Safety factor	0.764 (yield 827 MPa ÷ 1082 MPa) (17.91% difference)
 
 **<u>Thought Process</u>** The max stress appeared on the two vertical bracket bars on the edges. A fillet could fix it but this is my last design. Max deflection	focused primarily at the free end of the cylinder again. Stress is lower and safety factor is higher, but all small problems become bigger once the large problem is out of the way(cylinder wall). The weight loss is small but exists.
 
-FINAL DATA on convergence. Was it below 7%? Not close. I changed a lot of stuff. Fillets may have helped a little with this, but I hadn't thought about it for this last one since i thought it was going to be very stable based on the first run. If I could go back I would make the vertical bars thicker as well, or make the fillets huge. 
+FINAL DATA on convergence. Was it below 7%? Not close. I changed a lot of areas on the part, including gutting the plate and cylinder. Fillets may have helped a little with this, but I hadn't thought about it for this last one since i thought it was going to be very stable based on the first run. If I could go back I would make the vertical bars thicker as well, or make the fillets huge. 
 
 # IMAGE OF GEN 3 PART:
 
@@ -127,12 +127,14 @@ HERE ARE THE PARAMETERS AND TABLE IF NEEDED:
 
 ## __PART 4:__ <u>Reflections</u>
 
-This assignment was fun because it allowed me to feel the satisfaction of getting the rhythm down for simulation. I understand how to apply forces and fixtures and set parameters without needing to search a tutorial online. In terms of my designs, I realized 1 and 3 didn’t converge on stress because of sharp corners. Design 2 converged because its corners were filleted and I assume a difference in cylinder location contributed to its success. Deflection converged in every design which I thought was interesting. The improvement from Design 1 to Design 3 was fun to calculate. Stress down 36%, deflection down 38% and mass down about 23%. It amazes me that computers can solve this stuff in seconds. Though the finer meshes did take a bit longer. My laptop fans didn't even turn on once. Overall it took me ~5 hours to complete this assignment. 
+This assignment was fun because it allowed me to feel the satisfaction of getting the rhythm down for simulation. I understand how to apply forces and fixtures and set parameters without needing to search a tutorial online. In terms of my designs, I realized 1 and 3 didn’t converge on stress because of sharp corners. Design 2 converged because its corners were filleted and reducing that big stress point contributed to its success. Deflection converged in every design which I thought was interesting. The improvement from Design 1 to Design 3 was fun to calculate. Stress down 36%, deflection down 38% and mass down 20%. It amazes me that computers can solve this stuff in seconds. Though the finer meshes did take a bit longer. My laptop fans didn't even turn on once. Overall it took me ~5 hours to complete this assignment. 
 
 
 ## Problems Faced
 
 It was a learning process the entire way. I was scared my bracket wasn't built right as when I first tried to simulate the original A6 bracket (0.04 in plate), it failed to solve at full load with “equilibrium not achieved.” I found it was later due to the part not being able to support such a high force, as turning it down to 226N worked fine. Thats the biggest reason my first move in this project was thickening the baseplate and cylinder wall. I had trouble applying the force for the simulation properly, but I was able to watch a tutorial to properly set it up. In between design 2 and 3, I did a small test run to see whether my design would hold up despite being quite a bit lighter, and it did horribly with ~3.06mm deflection. The safety factor is the one thing I want to change. It is still below 1 and I feel like I could refine this bracket if I invested more time into it. Thickening the vertical walls and using fillet on the upright corners would probably ease the focused stress on that edge.
+
+![Table](stressorpoint2.png)
 
 
 ## FILES
