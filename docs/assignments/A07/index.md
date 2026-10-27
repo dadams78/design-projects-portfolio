@@ -111,6 +111,9 @@ Max stress	1082 MPa (17.88% difference)
 Max deflection	1.506 mm (0.059 in) (0.73% convergence)
 Safety factor	0.764 (yield 827 MPa ÷ 1082 MPa) (17.91% difference)
 
+ ![work process](centerdrill.png)
+  ![work process](plateholes.png)
+
 **<u>Thought Process</u>** The max stress appeared on the two vertical bracket bars on the edges. A fillet could fix it but this is my last design. Max deflection	focused primarily at the free end of the cylinder again. Stress is lower and safety factor is higher, but all small problems become bigger once the large problem is out of the way(cylinder wall). The weight loss is small but exists.
 
 FINAL DATA on convergence. Was it below 7%? Not close. I changed a lot of areas on the part, including gutting the plate and cylinder. Fillets may have helped a little with this, but I hadn't thought about it for this last one since i thought it was going to be very stable based on the first run. If I could go back I would make the vertical bars thicker as well, or make the fillets huge. 
