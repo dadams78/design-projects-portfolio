@@ -1,6 +1,6 @@
 # A7 – FEA on Bracket
 
-For this assignment the part previously designed in project A6 will be refined and optimized to cut unnecessary material using a "3x test 3x design" method. The material I chose for my bracket is Titanium (Ti-6Al-4V). The workflow for this project will consist of two parts. The first is an inner loop where the mesh will be changed up to three times(atleast two times), from coarser to finer until a 7% convergence appears validating the loop. The outer loop is where the actual geometry of the shape will be changed, removing material that is unnecessary and adding material where it could come in handy. The ultimate goal is to make the part be stronger, stiffer, and more lightweight than the prior iterations.
+For this assignment the part previously designed in project A6 will be refined and optimized to cut unnecessary material using a "3x test 3x design" method. The material I chose for my bracket is Titanium (Ti-6Al-4V with yield of 827 MPa). The workflow for this project will consist of two parts. The first is an inner loop where the mesh will be changed up to three times(atleast two times), from coarser to finer until a 7% convergence appears validating the loop. The outer loop is where the actual geometry of the shape will be changed, removing material that is unnecessary and adding material where it could come in handy. The ultimate goal is to make the part be stronger, stiffer, and more lightweight than the prior iterations.
 
 Below is an image of my initial part from A6:
 
@@ -8,14 +8,14 @@ Below is an image of my initial part from A6:
 
 **<u>Part 1: First FEA Design run</u>**
 
-One of the goals I have for this project is to make it bend less. I think adding material will help, so I will try that first. I chose 508lbf for the A5, so I will continue using that for this which translates to ~2260N. This force will be consistently applied face load no more force and no less. The vertical bracket holders will be the fixtures.
+One of the goals I have for this project is to make it bend less. I think adding material will help, so I will try that first. I chose 508lbf for the A5, so I will continue using that for this which translates to ~2260N. This force will be consistently applied at face load to the outer cylinder face normal to the baseplate pointing down. The vertical bracket holders/hooks will be the fixtures.
 
 Convergence Difference formula = 2 × |xf − xi| / (xi + xf) × 100%
 Elements: tetrahedrons in the coarse to fine mesh
 
 ## __PART 1:__ <u>First FEA Design</u>
 
-Things changed: made the baseplate and cylinder wall 4x thicker going from 0.0422 -> 0.1688in for both of them. 
+Things changed: made the baseplate and cylinder wall(the wall that is holding the cylinder) 4x thicker going from 0.0422 -> 0.1688in for both of them. 
 
  ![the first](design1.png)
  
@@ -118,9 +118,9 @@ FINAL DATA on convergence. Was it below 7%? Not close. I changed a lot of stuff.
 
  ![the first](finalpart.png)
 
-HERE ARE THE PARAMETERS IF NEEDED:
+HERE ARE THE PARAMETERS AND TABLE IF NEEDED:
 ![Parameters](things.png)
-
+![Table](table.png)
 
 
 
@@ -131,7 +131,7 @@ This assignment was fun because it allowed me to feel the satisfaction of gettin
 
 ## Problems Faced
 
-It was a learning process the entire way. I was scared my bracket wasn't built right as when I first tried to simulate the original A6 bracket (0.04 in plate), it failed to solve at full load with “equilibrium not achieved.” I found it was later due to the part not being able to support such a high force, as turning it down to 226N worked fine. Thats the biggest reason my first move in this project was thickening the baseplate and cylinder wall. I had trouble applying the force for the simulation properly, but I was able to watch a tutorial to properly set it up. Inbetween design 2 and 3, I did a small test run to see whether my design would hold up despite being quite a bit lighter, and it did horribly with ~3.06mm deflection. The safety factor is the one thing I want to change. It is still below 1 and I feel like I could refine this bracket if I invested more time into it. Thickening the vertical walls and using fillet on the upright corners would probably ease the focused stress on that edge.
+It was a learning process the entire way. I was scared my bracket wasn't built right as when I first tried to simulate the original A6 bracket (0.04 in plate), it failed to solve at full load with “equilibrium not achieved.” I found it was later due to the part not being able to support such a high force, as turning it down to 226N worked fine. Thats the biggest reason my first move in this project was thickening the baseplate and cylinder wall. I had trouble applying the force for the simulation properly, but I was able to watch a tutorial to properly set it up. In between design 2 and 3, I did a small test run to see whether my design would hold up despite being quite a bit lighter, and it did horribly with ~3.06mm deflection. The safety factor is the one thing I want to change. It is still below 1 and I feel like I could refine this bracket if I invested more time into it. Thickening the vertical walls and using fillet on the upright corners would probably ease the focused stress on that edge.
 
 
 ## FILES
