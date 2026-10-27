@@ -11,6 +11,7 @@ Below is an image of my initial part from A6:
 One of the goals I have for this project is to make it bend less. I think adding material will help, so I will try that first. I chose 508lbf for the A5, so I will continue using that for this which translates to ~2260N. This force will be consistently applied at face load to the outer cylinder face normal to the baseplate pointing down. The vertical bracket holders/hooks will be the fixtures.
 
 Convergence Difference formula = 2 × |xf − xi| / (xi + xf) × 100%
+
 Elements: tetrahedrons in the coarse to fine mesh
 
 ## __PART 1:__ <u>First FEA Design</u>
