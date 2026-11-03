@@ -41,7 +41,7 @@ Here is a close representation of what i plan on making my gearbox look like int
 During this stage I jumped right in working on the gearbox. I started off making the shafts 0.125x1.00 and 0.25x1.00, then downloaded the gears and bearings from the website for use with the final assembly and reference images. This helped me gauge what types of features I will need to design for in the gearbox.
 ![image](bearing.png)
 
-Based on the previous image of the gears, I figured a large but not excessive gearbox size would be 2.2"x1.4". I kept this consistent across the entire project to keep it simple. 0.6 inches extruded.
+Based on the previous image of the gears, I figured a large but not excessive gearbox size would be 2.2"x1.4". I kept this consistent across the entire project to keep it simple. 0.6 inches extruded(previously 0.5 from miscalculations).
 ![image](basesize.png)
 
 I carved out a segment of the half-gearbox to make room for the gears. Bearings will need space cut out as well, though since they are interference fits the holes were designed a bit smaller. 
@@ -65,7 +65,7 @@ Once done placing the holes I re-observed the gearbox and it turned out just how
 ![image](finalboxopen.png)
 
 
-**<u>Thought Process</u>** The biggest hurdle was small items like one dimension being off by 0.03" as well as navigating assembly for the first time in solidworks. I am sure that without these small bumps I could have cut my time down by an hour or two. 
+**<u>Thought Process</u>** 
 
 
 HERE ARE THE PARAMETERS:
@@ -73,13 +73,15 @@ HERE ARE THE PARAMETERS:
 
 
 ## __PART 5:__ Problems Faced and Lessons Learned
-This assignment took 8 hours.
+I liked this assignment more than I thought I was going to. I was initially thinking we were going to be actually designing the gears and seeing it was just the gearbox was a bit of a relief. It was similar to designing the A6 bracket. The biggest hurdle was small items like one dimension being off by 0.03" as well as navigating assembly for the first time in solidworks. I am sure that without these small bumps I could have cut my time down by an hour or two. This can be seen with my gear interference earlier and how I later realized I hadn't made holes for the shafts to poke out of for controlling and powering. My biggest lesson was learning that you can mirror stuff. I was going to get started on the bottom half and then try to manually copy the top half's layout. Solidworks is built for just that. My smallest lesson was to always remember to smart dimension everything no matter how arbitrary it may seem. This assignment took 8 hours for me and wasn't too bad.
 
 
 
 ## FILES
 
 Parts and Assemblies: 
+
+
 [Parametrics/Parameters](Parametrics.SLDPRT)
 
 [Gearbox ZIP File](Devin-Gearbox.zip)
