@@ -1,6 +1,6 @@
 # A8 – Gears
 
-For this assignment a gearbox is created with pre-existing gears and pins. Bearings and the gearbox case are to be discovered. The size and material of the bearings must be decided along with the gearbox case design that the gears will be held in. I ended up choosing porous bronze SAE 841. Forces from the gears will be used to dictate these variables. Using Solidworks the gearbox will be constructed with the assembly selection.
+For this assignment a gearbox is created with pre-existing gears and shafts. Bearings and the gearbox case are to be discovered. The size and material of the bearings must be decided along with the gearbox case design that the gears will be held in. I ended up choosing porous bronze SAE 841. Forces from the gears will be used to dictate these variables. Using Solidworks the gearbox will be constructed with the assembly selection.
 
  
 Below are images of the gears that will be used for the project in solidworks.
@@ -10,12 +10,13 @@ Below are images of the gears that will be used for the project in solidworks.
 
 **<u>Part 1: Shaft Stress Analysis</u>**
 
-I begin calculating the stresses located in the pins from the 1.25in-lbf force. the 24:9 ratio was interesting to have because from statics and solids aside from levers we havent had other torque multipliers like this.
+I begin calculating the stresses located in the shafts from the 1.25in-lbf torque. the 24:9 ratio was interesting to have because from statics and solids aside from levers we havent had other torque multipliers like this.
 
 ![image](pg1.jpg)
 Part of this second page is related to journal bearings so it will be placed in shaft stress as well as JB design. I did not have much trouble calculating these values.
 ![image](pg2.jpg)
 
+Both shafts passed the test and were sufficient for the required testing.
 
 **<u>Part 2: Journal Bearing Design</u>**
 
@@ -53,7 +54,7 @@ Once I got the basics out of the way, I mirrored the bottom half-gearbox and cop
 ![image](gearfit.png)
 
 
-Getting these bearings to fit into their interference holes was troublesome. I watched a youtube video and figured out pressing ALT would focus where the individual parts tracked to. 
+Getting these bearings to fit into their interference holes was troublesome. I watched a youtube video and figured out pressing ALT would focus where the individual parts tracked to. The bearings are press-fit into the housing (bores of 0.1875 in and 0.3125 in vs. bearing ODs of 0.190 in and 0.3145 in)
 ![image](bearingfit.png)
 
 Finally, I felt like I had finished the gearbox, but I realized there are no holes to access either the input or output shafts. It was just kind of a screwed together little box with gifts inside at this point.
