@@ -10,65 +10,76 @@ Below are images of the gears that will be used for the project in solidworks.
 
 **<u>Part 1: Shaft Stress Analysis</u>**
 
-One of the goals I have for this project is to make it bend less. I think adding material will help, so I will try that first. I chose 508lbf for the A5, so I will continue using that for this which translates to ~2260N. This force will be consistently applied at face load to the outer cylinder face normal to the baseplate pointing down. The vertical bracket holders/hooks will be the fixtures.
+I begin calculating the stresses located in the pins from the 1.25in-lbf force. the 24:9 ratio was interesting to have because from statics and solids aside from levers we havent had other torque multipliers like this.
 
-![the intro thingie](pg1.png)
-
-![the intro thingie](pg2.png)
+![image](pg1.jpg)
+Part of this second page is related to journal bearings so it will be placed in shaft stress as well as JB design. I did not have much trouble calculating these values.
+![image](pg2.jpg)
 
 
 **<u>Part 2: Journal Bearing Design</u>**
 
-![the intro thingie](pg2.png)
+![the intro thingie](pg2.jpg)
 on the page below, I wasn't able to find a good source on porous bronze's properties until I actually picked my bearing. Luckily the values were close enough that the bearing material and sizes still worked as intended. It was close enough when re-calculating the final answers, with the lowest Factor of Safety being 3.8(typically 3). The input bearing is on the bottom right, and the output bearing is on the next page.
 
-![the intro thingie](pg3.png)
+![image](pg3.jpg)
 
-![the intro thingie](pg4.png)
+![image](pg4.jpg)
+
+Input: McMaster-Carr 6391K326, Oil-Embedded 841 Bronze Sleeve Bearing, 1/8 in shaft diameter, 3/16 in housing ID, 5/32 in long
+Output: McMaster-Carr 6391K126, Oil-Embedded 841 Bronze Sleeve Bearing, 1/4 in shaft diameter, 5/16 in housing ID, 1/4 in long
 
 ## __PART 3:__ <u>Gearbox Sketch</u>
 
-Here is a close representation of what i plan on making my gearbox look like internally and externally with the input shaft exposed below and the output shaft exposed above the gearbox.
-![the intro thingie](pg5.png)
+Here is a close representation of what i plan on making my gearbox look like internally and externally with the input shaft exposed below and the output shaft exposed above the gearbox. After this I placed three #4-40 hex bolt holes in a triangle pattern to hold the box together. I chose this over a snap fit because for a gearbox I would prefer a stronger clamping force that the bolts can give. 
+![image](pg5.jpg)
 
 
 
 ## __PART 4:__ <u>CAD Modelling</u>
 
-During this stage I jumped right in working on the gearbox. I started off making the pins 0.125x1.00 and 0.25x1.00
+During this stage I jumped right in working on the gearbox. I started off making the shafts 0.125x1.00 and 0.25x1.00, then downloaded the gears and bearings from the website for use with the final assembly and reference images. This helped me gauge what types of features I will need to design for in the gearbox.
+![image](bearing.png)
+
+Based on the previous image of the gears, I figured a large but not excessive gearbox size would be 2.2"x1.4". I kept this consistent across the entire project to keep it simple. 0.6 inches extruded.
+![image](basesize.png)
+
+I carved out a segment of the half-gearbox to make room for the gears. Bearings will need space cut out as well, though since they are interference fits the holes were designed a bit smaller. 
+![image](basecut.png)
+![image](impropergap.png)
+![image](basepins.png)
+
+Once I got the basics out of the way, I mirrored the bottom half-gearbox and copied it as to quickly make a top half-gearbox to fit. At this point I began putting the assembly together for the first time. Unfortunately I ran into a gear interference issue which came down to a mis-reading of the gap. I used 0.65" instead of ~0.68" I quickly fixed it and returned to the building.
+![image](gearfit.png)
 
 
-**<u>Thought Process</u>** The max stress appeared on the two vertical bracket bars on the edges. A fillet could fix it but this is my last design. Max deflection	focused primarily at the free end of the cylinder again. Stress is lower and safety factor is higher, but all small problems become bigger once the large problem is out of the way(cylinder wall). The weight loss is small but exists.
+Getting these bearings to fit into their interference holes was troublesome. I watched a youtube video and figured out pressing ALT would focus where the individual parts tracked to. 
+![image](bearingfit.png)
 
-FINAL DATA on convergence. Was it below 7%? Not close. I changed a lot of areas on the part, including gutting the plate and cylinder. Fillets may have helped a little with this, but I hadn't thought about it for this last one since i thought it was going to be very stable based on the first run. If I could go back I would make the vertical bars thicker as well, or make the fillets huge. 
+Finally, I felt like I had finished the gearbox, but I realized there are no holes to access either the input or output shafts. It was just kind of a screwed together little box with gifts inside at this point.
+![image](gearboxdone.png)
+![image](gearboxclosed.png)
 
-# IMAGE OF GEN 3 PART:
-
- ![the first](finalpart.png)
-
-HERE ARE THE PARAMETERS AND TABLE IF NEEDED:
-![Parameters](things.png)
-![Table](table.png)
-
+Once done placing the holes I re-observed the gearbox and it turned out just how i was hoping. It was a little bit entertaining to open and close the box with its mated axes. 
+![image](finalbox.png)
+![image](finalboxopen.png)
 
 
-## __PART 4:__ <u>Reflections</u>
-
-This assignment was fun because it allowed me to feel the satisfaction of getting the rhythm down for simulation. I understand how to apply forces and fixtures and set parameters without needing to search a tutorial online. In terms of my designs, I realized 1 and 3 didn’t converge on stress because of sharp corners. Design 2 converged because its corners were filleted and reducing that big stress point contributed to its success. Deflection converged in every design which I thought was interesting. The improvement from Design 1 to Design 3 was fun to calculate. Stress down 36%, deflection down 38% and mass down 20%. It amazes me that computers can solve this stuff in seconds. Though the finer meshes did take a bit longer. My laptop fans didn't even turn on once. Overall it took me ~5 hours to complete this assignment. 
+**<u>Thought Process</u>** The biggest hurdle was small items like one dimension being off by 0.03" as well as navigating assembly for the first time in solidworks. I am sure that without these small bumps I could have cut my time down by an hour or two. 
 
 
-## Problems Faced and Lessons Learned
+HERE ARE THE PARAMETERS:
+![Parameters](parametrics.png)
 
-It was a learning process the entire way. I was scared my bracket wasn't built right as when I first tried to simulate the original A6 bracket (0.04 in plate), it failed to solve at full load with “equilibrium not achieved.” I found it was later due to the part not being able to support such a high force, as turning it down to 226N worked fine. Thats the biggest reason my first move in this project was thickening the baseplate and cylinder wall. I had trouble applying the force for the simulation properly, but I was able to watch a tutorial to properly set it up. In between design 2 and 3, I did a small test run to see whether my design would hold up despite being quite a bit lighter, and it did horribly with ~3.06mm deflection. The safety factor is the one thing I want to change. It is still below 1 and I feel like I could refine this bracket if I invested more time into it. Thickening the vertical walls and using fillet on the upright corners would probably ease the focused stress on that edge. I learned how stress likes to focus on edges and a lot of engineering choices i see in the real world make sense to me now.
 
-![Table](stressorpoint2.png)
+## __PART 5:__ Problems Faced and Lessons Learned
+This assignment took 8 hours.
+
 
 
 ## FILES
 
-Parts: 
-[Design 1](Part6design1.SLDPRT)
+Parts and Assemblies: 
+[Parametrics/Parameters](Parametrics.SLDPRT)
 
-[Design 2](Part6design2.SLDPRT)
-
-[Design 3](Part6design3FINAL.SLDPRT)
+[Gearbox ZIP File](Devin-Gearbox.zip)
