@@ -1,13 +1,13 @@
 # A9 – Pulleys
 
 ## **<u>Part 1: Belt Design</u>**
-![image](pg3.jpg)
+![image](A91.png)
 
 ## **<u>Part 2: Shaft's Diameter Design</u>**
-
+![image](A92.png)
 
 ## __PART 3:__ <u>Journal Bearing Design</u>
-![image](pg3.jpg)
+![image](A93.png)
 
 ## __PART 4:__ <u>Design of Frame</u>
 
@@ -16,6 +16,7 @@
 
 
 **<u>Files & Parametrics</u>**
+
 [Frame](Pulley.SLDPRT)
 
 ![Parametrics](parametrics.png)
