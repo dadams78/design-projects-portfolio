@@ -1,13 +1,13 @@
 # A9 – Pulleys
 
-## Objective
+**<u>Part 1: Belt Design</u>**
 
 
-## Analyze
+**<u>Part 2: Shaft's Diameter Design</u>**
 
 
-## Decide
+## __PART 3:__ <u>Gearbox Sketch</u>
 
 
-## Communicate
+## __PART 4:__ <u>Gearbox Sketch</u>
 
