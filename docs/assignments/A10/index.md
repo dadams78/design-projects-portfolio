@@ -12,7 +12,7 @@ about the project
 
 
 
-## __Part 3:__ <u>Design the Crosshead</u>
+## **<u>Part 3: Design the Crosshead</u>**
 
 
 
