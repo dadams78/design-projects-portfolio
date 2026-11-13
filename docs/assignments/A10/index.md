@@ -31,6 +31,6 @@ about the project
 
 **<u>Files & Parametrics</u>**
 
+(Nut)[https://www.mcmaster.com/97790A110/]
 
-
-
+(Lead Screw)[https://www.mcmaster.com/98980A370/]
