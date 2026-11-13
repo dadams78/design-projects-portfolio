@@ -1,13 +1,36 @@
 # A10 – Lead Screw Translating System
 
-## Objective
+about the project
+
+## **<u>Part 1: Leadscrew Minimum Diameter</u>**
 
 
-## Analyze
 
 
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+## **<u>Part 2: Select a Nut and Flange</u>**
 
-## Communicate
+
+
+
+## __PART 3:__ <u>Design the Crosshead</u>
+
+
+
+## __Tabulating Costs__
+
+
+
+##__Parametric Modeling__
+
+
+
+## __Lessons Learned__
+
+
+
+
+**<u>Files & Parametrics</u>**
+
+
+
 
