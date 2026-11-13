@@ -12,7 +12,7 @@ about the project
 
 
 
-## __PART 3:__ <u>Design the Crosshead</u>
+## __Part 3:__ <u>Design the Crosshead</u>
 
 
 
@@ -20,7 +20,7 @@ about the project
 
 
 
-##__Parametric Modeling__
+## __Parametric Modeling__
 
 
 
