@@ -35,6 +35,6 @@ This project involves a group of two to three people to desigb a Tensile tester 
 
 **<u>Files & Parametrics</u>**
 
-![Nut](https://www.mcmaster.com/97790A110/)
+[Nut](https://www.mcmaster.com/97790A110/)
 
-![Lead Screw](https://www.mcmaster.com/98980A370/)
+[Lead Screw](https://www.mcmaster.com/98980A370/)
