@@ -1,6 +1,6 @@
 # A10 – Lead Screw Translating System
 
-This project involves a group of two to three people to desigb a Tensile tester that utilizes a leadscrew system. Our group is made up of Jacob, Ryan, and Devin and this is part one of two parts for this system. The values we are designing and building are looking to achieve a "mechanically driven tensile tester capable of applying up to 2 kN axial tensile load with a controllable crosshead speed from 1 to 50 mm/min". Below is the example for what type of system we are targeting.
+This project involves a group of two to three people to desigb a Tensile tester that utilizes a leadscrew system. Our group is made up of Jacob Huss, Ryan Seger, and Devin Adams and this will be part one of two parts for this system. The values we are designing and building are looking to achieve a "mechanically driven tensile tester capable of applying up to 2 kN axial tensile load with a controllable crosshead speed from 1 to 50 mm/min". Below is the example for what type of system we are targeting.
 
 ![figure1 from A10 assignment](fig1.png)
 
