@@ -13,8 +13,11 @@ For this section, we are calculating the expected minimum diameter for the leads
 
 ## **<u>Part 2: Select a Nut and Flange</u>**
 
+At this point in the assignment, the flange nut that will complement the leadscrew is next. It must be made of bronze and fit the selected leadscrew threads-wise. It must also be able to support the bending stress it will encounter during operation, and have its safety factor calculated during operation
 
+![flange nut page 1](pg1-2.jpg)
 
+![flange nut page 1](pg2-2.jpg)
 
 ## **<u>Part 3: Design the Crosshead</u>**
 
