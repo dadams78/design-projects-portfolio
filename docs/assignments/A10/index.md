@@ -21,6 +21,11 @@ At this point in the assignment, the flange nut that will complement the leadscr
 
 ## **<u>Part 3: Design the Crosshead</u>**
 
+Finally, the design of the crosshead is calculated. A proper length found with research, as well as minimum strength, (based on deflection of 0.1mm) and minimum base size will be based on a stress/strength analysis to determine the size and material the crosshead will be made of. Below is the calculations used to figure these variables. The end result below was made using aluminum, with a total length of 350mm, height of 24.5mm
+
+![crosshead page 1](pg1-3.jpg)
+
+![crosshead page 2](pg2-3.jpg)
 
 
 ## __Tabulating Costs__
@@ -28,6 +33,8 @@ At this point in the assignment, the flange nut that will complement the leadscr
 |:-----------:|:--------:|:-----|----------:|-----:|:-------------:|
 | 1 | 1 | 304 Stainless Steel Precision Acme Lead Screw, 1/2"-10, 6 ft | $127.10 | $127.10 | [McMaster-Carr](https://www.mcmaster.com/98980A370/) |
 | 2 | 6 | Precision Acme Flange Nut, 1/2"-10, 932 Bronze | $178.60 | $1071.60 | [McMaster-Carr](https://www.mcmaster.com/97790A110/) |
+| 0 | 0 | CROSSHEAD | $000.00 | $000.00 | [Title Here](Link here) |
+| 0 | 0 | FRAME | $000.00 | $000.00 | [Title Here](Link here) |
 | | | | **Total Cost** | **$1,198.7** | |
 
 
