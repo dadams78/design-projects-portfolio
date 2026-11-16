@@ -5,7 +5,9 @@ This project involves a group of two to three people to desigb a Tensile tester 
 ## **<u>Part 1: Leadscrew Minimum Diameter</u>**
 
 
+![leadscrew page 1](pg1.jpg)
 
+![leadscrew page 2](pg2.jpg)
 
 ## **<u>Part 2: Select a Nut and Flange</u>**
 
