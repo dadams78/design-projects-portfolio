@@ -33,7 +33,7 @@ Finally, the design of the crosshead is calculated. A proper length found with r
 |:-----------:|:--------:|:-----|----------:|-----:|:-------------:|
 | 98980A370 | 1 | 304 Stainless Steel Precision Acme Lead Screw, 1/2"-10, 6 ft | $127.10 | $127.10 | [McMaster-Carr](https://www.mcmaster.com/98980A370/) |
 | 97790A110 | 2 | Precision Acme Flange Nut, 1/2"-10, 932 Bronze | $178.60 | $357.2 | [McMaster-Carr](https://www.mcmaster.com/97790A110/) |
-| 804T48 | 1 | Frame: Rectangle, 40 Series, Smooth, Double, 3 m, 80 mm x 40 mm | $264.97 | $264.97 | [Grainger]([Link here](https://www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48)) |
+| 804T48 | 1 | Frame: Rectangle, 40 Series, Smooth, Double, 3 m, 80 mm x 40 mm | $264.97 | $264.97 | [Grainger]([Link here](https://www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48) |
 | | | | **Total Cost** | **$749.27** | |
 
 
