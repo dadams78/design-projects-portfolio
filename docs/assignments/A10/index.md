@@ -23,9 +23,9 @@ At this point in the assignment, the flange nut that will complement the leadscr
 
 Finally, the design of the crosshead is calculated. A proper length found with research, as well as minimum strength, (based on deflection of 0.1mm) and minimum base size will be based on a stress/strength analysis to determine the size and material the crosshead will be made of. Below is the calculations used to figure these variables. The end result below was made using aluminum.
 
-![crosshead page 1](pg1-3.jpg)
+![crosshead page 1](IMG_8560.jpg)
 
-![crosshead page 2](pg2-3.jpg)
+![crosshead page 2](IMG_8561.jpg)
 
 
 ## __Tabulating Costs__
