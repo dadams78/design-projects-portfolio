@@ -38,20 +38,24 @@ Finally, the design of the crosshead is calculated. A proper length found with r
 
 
 ## __Parametric Modeling__
+Working with the screws, crosshead and bearings were long, but once the lengths of all of the parts were set properly, it fit together nicely. Both Devin and Ryan worked a bit on this, Devin figured out how to cut the pieces to size and ryan assembled the frame assembly
 
+
+![crosshead](crossfinal.png)
+
+![assem1](framemid.png)
+
+![assem2](framefinal.png)
 
 
 ## __Parametric Equations__
 
 
+![parametrics](para.png)
 
 ## __Lessons Learned__
 
-This project was tedious, thankfully the group system lightened the stress a bit. The instructions and layout of the resources section made figuring out how to select parts for the project difficult during the first couple hours of the project when we all first got together. Eventually we figured it out and got resources from the McMaster website. We had to rework the nut/flange section after making a mistake on some of the values, which we crosschecked later and realized the problem. Luckily it was caught relatively quickly before it affected any more of the project. 
-
-ADD CAD LESSONS HERE
-
-It was interesting learing about how to make a table for the github page, rather than making an excel sheet and copying an image of it over to the directory to show. This project in total took 8 hours to complete
+This project was tedious, thankfully the group system lightened the stress a bit. The instructions and layout of the resources section made figuring out how to select parts for the project difficult during the first couple hours of the project when we all first got together. Eventually we figured it out and got resources from the McMaster website. We had to rework the nut/flange section after making a mistake on some of the values, which we crosschecked later and realized the problem. Luckily it was caught relatively quickly before it affected any more of the project. CAD modelling and getting the screws to go in the right places was a pain. we eventually got it to work but it took some time selecting the right part of the screw and threads. It was interesting learing about how to make a table for the github page, rather than making an excel sheet and copying an image of it over to the directory to show. This project in total took 8 hours to complete
 
 
 **<u>Files & Parametrics</u>**
@@ -59,3 +63,7 @@ It was interesting learing about how to make a table for the github page, rather
 [Flange Nut 3D](FlangeNut.SLDPRT)
 
 [Lead Screw 3D](LeadScrew.SLDPRT)
+
+[Final Assembly](Assem2.SLDASM)
+
+
