@@ -32,7 +32,7 @@ Labor Costs
 | example devin | 0.1 | 35 | 0 |
 | example jacob | 4 | 35 | 0 |
 | example ryan | 8 | 35 | 0 |
-| | | **Total Cost** | **$749.27** |
+| | | **Total Cost** | **$0** |
 
 
 ## __Parametric Modeling and FEA Simulation__
