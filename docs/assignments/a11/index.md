@@ -35,7 +35,9 @@ Labor Costs
 | example ryan | 8^4.4 | 35 | 0 |
 | | | **Total Cost** | **$0** |
 
-
+| Final Cost: |
+|:----:|
+| $0 |
 ## __Parametric Modeling and FEA Simulation__
 
 
