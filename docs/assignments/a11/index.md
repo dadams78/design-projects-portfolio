@@ -29,9 +29,9 @@ Bill of Materials
 Labor Costs
 | Person | Hours Worked | Cost/Hour | Cost |
 |:-----------:|:--------:|:-----:|:----------:|
-| 0 | 0 | 0 | 0 |
-| 0 | 0 | 0 | 0 |
-| 0 | 0 | 0 | 0 |
+| example devin | 0.1 | 35 | 0 |
+| example jacob | 4 | 35 | 0 |
+| example ryan | 8 | 35 | 0 |
 | | | **Total Cost** | **$749.27** |
 
 
