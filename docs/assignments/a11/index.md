@@ -4,31 +4,31 @@ info here
 
 ![image](img.png)
 
-## **<u>Part 1: Leadscrew Minimum Diameter</u>**Jacob/Ryan
+## **<u>Part 1: Motor Selection and Attachments</u>**
 
 ![image](img.png)
 
-## **<u>Part 2: Select a Nut and Flange</u>** Jacob/Devin
+## **<u>Part 2: Analyze and design a Frame</u>**
 
 ![image](img.png)
 
-## **<u>Part 3: Design the Crosshead</u>** Jacob
-
-![image](img.png)
-
-
-## __Tabulating Costs__ Devin
-
-
-## __Parametric Modeling__ Devin/Ryan
-
+## **<u>Part 3: Design Floating Bearing Mount</u>**
 
 ![image](img.png)
 
 
+## __Bill of Materials and Labor Costs__
 
 
-## __Parametric Equations__ Ryan
+## __Parametric Modeling and FEA Simulation__
+
+
+![image](img.png)
+
+
+
+
+## __Parametric Equations__
 
 
 ![image](img.png)
