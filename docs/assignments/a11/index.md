@@ -18,7 +18,8 @@ This is the second portion of our group development of a tensile testing lead sc
 
 
 ## __Bill of Materials and Labor Costs__
-Bill of Materials
+
+
 | Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
 |:-----------:|:--------:|:-----|----------:|-----:|:-------------:|
 | 98980A370 | 1 | 304 Stainless Steel Precision Acme Lead Screw, 1/2"-10, 6 ft | $127.10 | $127.10 | [McMaster-Carr](https://www.mcmaster.com/98980A370/) |
@@ -27,7 +28,7 @@ Bill of Materials
 |  6627T591  | 1 | Stepper Motor with Square Body | $152.00 | $152.00 | [McMaster-Carr](https://www.mcmaster.com/6627T591/) |
 | | | | **Total Cost** | **$901.27** | |
 
-Labor Costs
+
 | Person | Hours Worked | Cost/Hour | Cost |
 |:-----------:|:--------:|:-----:|:----------:|
 | example devin | 0.1 | 35 | 0 |
@@ -35,9 +36,11 @@ Labor Costs
 | example ryan | 8^4.4 | 35 | 0 |
 | | | **Total Cost** | **$0** |
 
+
 | Final Cost: |
 |:----:|
 | $0 |
+
 ## __Parametric Modeling and FEA Simulation__
 
 
