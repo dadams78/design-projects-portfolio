@@ -1,6 +1,6 @@
 # A11 – Motor Selection
 
-info here
+This is the second portion of our group development of a tensile testing lead screw system. During this section, the development of the motorized drive and structural integration for the 2 kN tensile tester, focusing on motor selection, mounting, frame stability, and clamp design. This phase will ensure that the crosshead moves smoothly under controlled torque and speed while maintaining precise load alignment and secure specimen gripping.
 
 ![image](img.png)
 
@@ -24,14 +24,15 @@ Bill of Materials
 | 98980A370 | 1 | 304 Stainless Steel Precision Acme Lead Screw, 1/2"-10, 6 ft | $127.10 | $127.10 | [McMaster-Carr](https://www.mcmaster.com/98980A370/) |
 | 97790A110 | 2 | Precision Acme Flange Nut, 1/2"-10, 932 Bronze | $178.60 | $357.2 | [McMaster-Carr](https://www.mcmaster.com/97790A110/) |
 | 804T48 | 1 | Frame: Rectangle, 40 Series, Smooth, Double, 3 m, 80 mm x 40 mm | $264.97 | $264.97 | [Grainger](https://www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48) |
-| | | | **Total Cost** | **$749.27** | |
+|  6627T591  | 1 | Stepper Motor with Square Body | $152.00 | $152.00 | [McMaster-Carr](https://www.mcmaster.com/6627T591/) |
+| | | | **Total Cost** | **$901.27** | |
 
 Labor Costs
 | Person | Hours Worked | Cost/Hour | Cost |
 |:-----------:|:--------:|:-----:|:----------:|
 | example devin | 0.1 | 35 | 0 |
-| example jacob | 4 | 35 | 0 |
-| example ryan | 8 | 35 | 0 |
+| example jacob | 999,9 | 35 | 0 |
+| example ryan | 8^4.4 | 35 | 0 |
 | | | **Total Cost** | **$0** |
 
 
