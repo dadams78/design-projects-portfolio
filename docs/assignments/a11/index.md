@@ -1,6 +1,6 @@
 # A11 – Motor Selection
 
-This is the second portion of our group development of a tensile testing lead screw system. During this section, the development of the motorized drive and structural integration for the 2 kN tensile tester, focusing on motor selection, mounting, frame stability, and clamp design. This phase will ensure that the crosshead moves smoothly under controlled torque and speed while maintaining precise load alignment and secure specimen gripping.
+This is the second portion of our group development of a tensile testing lead screw system. During this section, the development of the motorized drive and structural integration for the 2 kN tensile tester is the primary focus. To achieve that a motor will be selected that aligns with our goals, and an analysis of the frame and clamp design/stability will be conducted to ensure it's safety factors are within specification. It will ensure that the crosshead moves accordingly under controlled torque and speed all while maintaining a precise load alignment. 
 
 ![image](img.png)
 
