@@ -62,6 +62,6 @@ Lessons here
 
 **<u>Files & Parametrics</u>**
 
-[file](img.sdprt)
+[Motor Mount](A11MotorMountCAD.SLDPRT)
 
 
