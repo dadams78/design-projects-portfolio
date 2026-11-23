@@ -32,15 +32,15 @@ This is the second portion of our group development of a tensile testing lead sc
 
 | Person | Hours Worked | Cost/Hour | Cost |
 |:-----------:|:--------:|:-----:|:----------:|
-| example devin | 0.1 | 35 | 0 |
-| example jacob | 999,9 | 35 | 0 |
-| example ryan | 8^4.4 | 35 | 0 |
-| | | **Total Cost** | **$0** |
+| Devin | 3 | 35 | 105 |
+| Jacob | 4 | 35 | 140 |
+| Ryan | 3 | 35 | 105 |
+| | | **Total Cost** | **$350** |
 
 
 | Final Cost: |
 |:----:|
-| $0 |
+| $1,204.47 |
 
 ## __Parametric Modeling and FEA Simulation__
 
@@ -57,7 +57,7 @@ This is the second portion of our group development of a tensile testing lead sc
 
 ## __Lessons Learned__ Ryan/Devin/Jacob
 
-Lessons here
+We learned how to change the length of the frame, 
 
 
 **<u>Files & Parametrics</u>**
