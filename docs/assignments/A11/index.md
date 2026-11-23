@@ -24,10 +24,10 @@ This is the second portion of our group development of a tensile testing lead sc
 |:-----------:|:--------:|:-----|----------:|-----:|:-------------:|
 | 98980A370 | 1 | 304 Stainless Steel Precision Acme Lead Screw, 1/2"-10, 6 ft | $127.10 | $127.10 | [McMaster-Carr](https://www.mcmaster.com/98980A370/) |
 | 97790A110 | 2 | Precision Acme Flange Nut, 1/2"-10, 932 Bronze | $178.60 | $357.2 | [McMaster-Carr](https://www.mcmaster.com/97790A110/) |
-| 804T48 | 1 | Frame: Rectangle, 40 Series, Smooth, Double, 3 m, 80 mm x 40 mm | $264.97 | $264.97 | [Grainger](https://www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48) |
+| 804T48 | 1 | Frame: Rectangle, 40 Series, Smooth, Double, 3 m, 40 mm x 40 mm | $115.67 | $115.67 | [Grainger](https://www.grainger.com/product/80-20-T-Slot-Framing-System-Square-804TA8) |
 |  6627T591  | 1 | Stepper Motor with Square Body | $152.00 | $152.00 | [McMaster-Carr](https://www.mcmaster.com/6627T591/) |
 |  6208K565  | 1 | Clamping Precision Flexible Shaft Coupling | $102.50 | $102.50 | [McMaster-Carr]([https://www.mcmaster.com/6208K565/]) |
-| | | | **Total Cost** | **$1,003.77** | |
+| | | | **Total Cost** | **$854.47** | |
 
 
 | Person | Hours Worked | Cost/Hour | Cost |
