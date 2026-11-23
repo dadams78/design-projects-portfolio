@@ -5,7 +5,7 @@ This is the second portion of our group development of a tensile testing lead sc
 ![image](fig1.png)
 
 ## **<u>Part 1: Motor Selection and Attachments</u>**
-
+(summarize the instructions for the part 1 2 3 sections. Jacobs addition: "for the thickness on the first part, the calculated thickness was rounded up to 1/4 inch Math was also done to validate the safety factors for the couplers and frame mounting holes for the motor mount.
 ![image](01.png)
 ![image](02.png)
 ![image](03.png)
