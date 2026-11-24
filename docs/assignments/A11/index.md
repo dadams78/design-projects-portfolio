@@ -22,8 +22,12 @@ For the first part of this portion, utilizing the speed and torque requirements 
 
 ## **<u>Part 3: Design Floating Bearing Mount</u>**
 
-![image](img.png)
-
+![image](p1.png)
+![image](p2.png)
+![image](p3.png)
+![image](p4.png)
+![image](p5.png)
+![image](p6.png)
 
 ## __Bill of Materials and Labor Costs__
 
@@ -58,5 +62,6 @@ We learned how to change the length of the frame,
 **<u>Files & Parametrics</u>**
 
 [Motor Mount](A11MotorMountCAD.SLDPRT)
+[Floating Bearing Mount](FloatingBearing.SLDPRT)
 
 
