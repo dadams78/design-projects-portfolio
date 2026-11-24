@@ -18,40 +18,46 @@ For the first part of this portion, utilizing the speed and torque requirements 
 After this choice we created a motor mounting bracket for the motor to attach to, which is pictured below. It maintains its alignment with the rest of the system and stays within its clearances and tolerances regarding deflection.
 
 Here is the start of the motor mount, ~2.36in size.
+
 ![image](m1.png)
 ![image](m2.png)
+
 Cutting these sections out took a bit of work but it was eventually done. 
+
 ![image](m3.png)
 ![image](m4.png)
 ![image](m5.png)
 ![image](m6.png)
+
 Getting these holes lined up was tedious, but the final part works. 
+
 ![image](m7.png)
 ![image](mount.png)
 
-## **<u>Part 2: Analyze and design a Frame</u>**
+## **<u>Part 2: Analyze and design a Frame (Ryan)</u>**
 
 ![image](img.png)
 
-## **<u>Part 3: Design Floating Bearing Mount</u>**
+## **<u>Part 3: Design Floating Bearing Mount (Devin)</u>**
 
-Design a mounting bearing which allows the end of the leadscrew to rotate using a RC3 Fit class and affix to the bottom of the frame. Clearance holes for bolts must be researched in the Machinery’s Handbook.
-Justify each size and location dimension of the mount.
-Note the functional tolerances for the appropriate dimensions. 
-
-The last part of design requires modelling a floating mounting bearing that lets the end part of the lead screw to rotate. It is fitted to the bottom of the frame. We chose 0.5in for the center lead screw diameter with a +0.0007 tolerance as an RC3 for the 1/2 in leadscrew, along with four M8 sized bolt holes evenly spaced 1.575in apart. It is 0.75 in thick to give a decent amount of material for strength purposes if ever needed. The part itself is 2.5in x 2.5in to give clearance from the frame to its side. The original idea of 3 inches would be too large so we reduced it down.
+The last part of this system design requires modelling a floating mounting bearing that lets the end part of the lead screw to rotate. It is fitted to the bottom of the frame. We chose 0.5in for the center lead screw diameter with a +0.0007 tolerance as an RC3 for the 1/2 in leadscrew, along with four M8 sized bolt holes evenly spaced 1.575in apart. It is 0.75 in thick to give a decent amount of material for strength purposes if ever needed. The part itself is 2.5in x 2.5in to give clearance from the frame to its side. The original idea of 3 inches would be too large so we reduced it down.
 
 Originally on this part it had to be completely remade to account for the smaller size of 3in down to 2.5in.
+
 ![image](p1.png)
 ![image](p2.png)
+
 Figuring out how to get these screws lined up was a throwback to one of the previous projects, it was satisfying seeing them all line up properly and size themselves in sync.
+
 ![image](p3.png)
 ![image](p4.png)
 ![image](p5.png)
+
 Here is the finished bearing.
+
 ![image](p6.png)
 
-## __Bill of Materials and Labor Costs__
+## __Bill of Materials and Labor Costs (Devin)__
 
 
 | Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
