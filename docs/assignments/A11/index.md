@@ -6,7 +6,7 @@ This is the second portion of our group development of a tensile testing lead sc
 
 ## **<u>Part 1: Motor Selection and Attachments (Jacob)</u>**
 
-For the first part of this portion, utilizing the speed and torque requirements from the previous assignment we chose a motor to use, which ended up being a stepper type motor. After this choice we created a motor mounting bracket for the motor to attach to, which is pictured below. It maintains its alignment with the rest of the system and stays within its clearances and tolerances regarding deflection. For the thickness on the first section of this part, the calculated number was rounded up to 1/4 inch. Math was then done to validate the safety factors of the couplers along with the frame mounting holes for the motor mount.
+For the first part of this portion, utilizing the speed and torque requirements from the previous assignment we chose a motor to use, which ended up being a stepper type motor.  For the thickness on the first section of this part, the calculated number was rounded up to 1/4 inch. Math was then done to validate the safety factors of the couplers along with the frame mounting holes for the motor mount.
 ![image](01.png)
 ![image](02.png)
 ![image](03.png)
@@ -14,6 +14,16 @@ For the first part of this portion, utilizing the speed and torque requirements 
 ![image](05.png)
 ![image](06.png)
 ![image](07.png)
+
+After this choice we created a motor mounting bracket for the motor to attach to, which is pictured below. It maintains its alignment with the rest of the system and stays within its clearances and tolerances regarding deflection.
+
+![image](m1.png)
+![image](m2.png)
+![image](m3.png)
+![image](m4.png)
+![image](m5.png)
+![image](m6.png)
+![image](m7.png)
 ![image](mount.png)
 
 ## **<u>Part 2: Analyze and design a Frame</u>**
