@@ -68,6 +68,12 @@ Here is the finished bearing.
 
 ![image](p6.png)
 
+## **<u>Final System</u>**
+
+This is the final assembly of the system!
+
+![image](FinAsem.png)
+
 ## __Bill of Materials and Labor Costs (Devin)__
 
 
