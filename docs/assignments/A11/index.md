@@ -106,7 +106,7 @@ There was a lot of things we learned on this portion of the project. it took ~7 
 
 **<u>Files & Parametrics</u>**
 
-[Motor Mount](A11MotorMountCAD.SLDPRT)
+[Motor Mount](A11MotorMount2.SLDPRT)
 
 [Floating Bearing Mount](FloatingBearing2.SLDPRT)
 
@@ -115,4 +115,8 @@ There was a lot of things we learned on this portion of the project. it took ~7 
 [motor Frame 30x40](30x40f.SLDPRT)
 
 [Motor Frame](Motor-Frame.SLDPRT)
+
+[Motor Frame Assembly](MotorFrameAssemblyPart2.SLDASM)
+
+[Crosshead](crosshead.SLDPRT)
 
