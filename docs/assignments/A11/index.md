@@ -120,3 +120,6 @@ There was a lot of things we learned on this portion of the project. it took ~7 
 
 [Crosshead](crosshead.SLDPRT)
 
+[Lead Screw](LeadScrew.SLDPRT)
+
+[Flange Nut](FlangeNut.SLDPRT)
