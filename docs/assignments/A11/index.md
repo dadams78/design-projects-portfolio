@@ -4,8 +4,9 @@ This is the second portion of our group development of a tensile testing lead sc
 
 ![image](fig1.png)
 
-## **<u>Part 1: Motor Selection and Attachments</u>**
-(summarize the instructions for the part 1 2 3 sections. Jacobs addition: "for the thickness on the first part, the calculated thickness was rounded up to 1/4 inch Math was also done to validate the safety factors for the couplers and frame mounting holes for the motor mount.
+## **<u>Part 1: Motor Selection and Attachments (Jacob)</u>**
+
+For the first part of this portion, utilizing the speed and torque requirements from the previous assignment we chose a motor to use, which ended up being a stepper type motor. After this choice we created a motor mounting bracket for the motor to attach to, which is pictured below. It maintains its alignment with the rest of the system and stays within its clearances and tolerances regarding deflection. For the thickness on the first section of this part, the calculated number was rounded up to 1/4 inch. Math was then done to validate the safety factors of the couplers along with the frame mounting holes for the motor mount.
 ![image](01.png)
 ![image](02.png)
 ![image](03.png)
@@ -13,6 +14,7 @@ This is the second portion of our group development of a tensile testing lead sc
 ![image](05.png)
 ![image](06.png)
 ![image](07.png)
+![image](mount.png)
 
 ## **<u>Part 2: Analyze and design a Frame</u>**
 
@@ -47,19 +49,6 @@ This is the second portion of our group development of a tensile testing lead sc
 | Final Cost: |
 |:----:|
 | $1,204.47 |
-
-## __Parametric Modeling and FEA Simulation__
-
-
-![image](img.png)
-
-
-
-
-## __Parametric Equations__
-
-
-![image](img.png)
 
 ## __Lessons Learned__ Ryan/Devin/Jacob
 
