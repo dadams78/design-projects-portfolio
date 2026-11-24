@@ -104,4 +104,9 @@ There was a lot of things we learned on this portion of the project. it took ~7 
 
 [Floating Bearing Mount](FloatingBearing2.SLDPRT)
 
+[Frame Motor Assembly](FMA.SLDASM)
+
+[motor Frame 30x40](30x40f.SLDPRT)
+
+[Motor Frame](Motor-Frame.SLDPRT)
 
