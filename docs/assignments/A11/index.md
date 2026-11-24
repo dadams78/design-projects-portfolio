@@ -36,7 +36,18 @@ Getting these holes lined up was tedious, but the final part works.
 
 ## **<u>Part 2: Analyze and design a Frame (Ryan)</u>**
 
-![image](img.png)
+Utilizing FEA for this second part of this, experimentation is done to see how the motors will affect the system and account for it. Using connectors, leadscrews and slight modifications(different frame type compared to the one selected before, specifically 80x40mm -> 40x40mm. The top of the frame will need to be able to support the loads of the lead screw and torque. Afterwards, verification of the vertical component and frame will be conducted with proper constraints and forces put in place. For the vertical frame we noticed a large safety factor. Once that was noted, we continued on with the simulations starting with the frame. The first one had a max element size 4mm and min 0.5mm, with the second one going down to 2.5mm and 0.35mm. For the vertical frame we started with 4mm  and 1.5mm, then dropped down to 2.5mm and 1mm for the second test.
+
+![image](mm1.png)
+![image](mm2.png)
+![image](mm3.png)
+![image](mm11.png)
+![image](mm22.png)
+![image](mm33.png)
+![image](mm44.png)
+![image](mm55.png)
+![image](mm66.png)
+
 
 ## **<u>Part 3: Design Floating Bearing Mount (Devin)</u>**
 
@@ -90,6 +101,7 @@ There was a lot of things we learned on this portion of the project. it took ~7 
 **<u>Files & Parametrics</u>**
 
 [Motor Mount](A11MotorMountCAD.SLDPRT)
+
 [Floating Bearing Mount](FloatingBearing2.SLDPRT)
 
 
