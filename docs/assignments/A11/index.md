@@ -60,15 +60,15 @@ The last part of design requires modelling a floating mounting bearing that lets
 
 | Person | Hours Worked | Cost/Hour | Cost |
 |:-----------:|:--------:|:-----:|:----------:|
-| Devin | 3 | 35 | 105 |
-| Jacob | 4 | 35 | 140 |
-| Ryan | 3 | 35 | 105 |
-| | | **Total Cost** | **$350** |
+| Devin | 7.5 | 35 | 105 |
+| Jacob | 6.5 | 35 | 140 |
+| Ryan | 7.5 | 35 | 105 |
+| | | **Total Cost** | **$700** |
 
 
 | Final Cost: |
 |:----:|
-| $1,204.47 |
+| $1,501.97 |
 
 ## __Lessons Learned__ Ryan/Devin/Jacob
 
