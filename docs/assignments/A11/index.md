@@ -32,6 +32,12 @@ After this choice we created a motor mounting bracket for the motor to attach to
 
 ## **<u>Part 3: Design Floating Bearing Mount</u>**
 
+Design a mounting bearing which allows the end of the leadscrew to rotate using a RC3 Fit class and affix to the bottom of the frame. Clearance holes for bolts must be researched in the Machinery’s Handbook.
+Justify each size and location dimension of the mount.
+Note the functional tolerances for the appropriate dimensions. 
+
+The last part of design requires modelling a floating mounting bearing that lets the end part of the lead screw to rotate. It is fitted to the bottom of the frame 
+
 ![image](p1.png)
 ![image](p2.png)
 ![image](p3.png)
@@ -72,6 +78,6 @@ We learned how to change the length of the frame,
 **<u>Files & Parametrics</u>**
 
 [Motor Mount](A11MotorMountCAD.SLDPRT)
-[Floating Bearing Mount](FloatingBearing.SLDPRT)
+[Floating Bearing Mount](FloatingBearing2.SLDPRT)
 
 
